@@ -22,7 +22,7 @@ http://181.78.67.53:8004/play/a04i/index.m3u8
 #EXTINF:-1,11.USA
 http://181.129.198.235:8000/play/a07v/index.m3u8
 #EXTINF-1,12.Sony Movies
-http://161.132.108.76:50001/play/a03j/index.m3u8
+http://179.1.48.62:4000/play/a01a/index.m3u8
 #EXTINF:-1,13.Sony Channel
 http://187.102.208.108:50001/play/a002/index.m3u8
 #EXTINF:-1,14.Warner Channel
@@ -66,7 +66,7 @@ http://181.78.8.90:16123/play/a068
 #EXTINF:-1,33.Cartoonito
 http://45.238.21.84:8000/play/a0es
 #EXTINF:-1,34.Dreamworks
-http://45.189.148.24:8000/play/a00m/index.m3u8
+http://181.119.66.30:8000/play/82/index.m3u8
 #EXTINF:-1,35.Discovery Kids
 http://45.181.122.13:8000/play/017
 #EXTINF:-1,36.Clan

@@ -59,8 +59,6 @@ http://177.93.46.163:8000/play/a00y
 http://181.204.79.182:9609/play/a00a
 #EXTINF:-1,30.Nickelodeon HD
 http://45.5.119.228:8000/play/a08j/index.m3u8
-#EXTINF:-1,31.night@time
-https://ssh101.bozztv.com/ssh101/toonizakistream/playlist.m3u8
 #EXTINF:-1,32.Tooncast
 http://181.78.8.90:16123/play/a068
 #EXTINF:-1,33.Cartoonito

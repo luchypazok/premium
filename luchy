@@ -73,49 +73,51 @@ http://45.181.122.13:8000/play/017
 http://190.211.250.148:8000/play/a03g
 #EXTINF:-1,37.TeenNick
 http://161.132.108.72:50001/play/a047/index.m3u8
-#EXTINF:-1,37.Canal 19 ARG
+#EXTINF:-1,38.Canal 19 ARG
 https://rpn3.bozztv.com/ssh101/ssh101/canal190001213/playlist.m3u8
-#EXTINF:-1,38.HBO
+#EXTINF:-1,39.Canal 19 ARG SD
+https://xhateaec.com:8800/hls/canal19arg/canal19arg/fa85b5d8f08f4aeb8ad3a4c891569e4f/index.m3u8
+#EXTINF:-1,39.HBO
 http://45.181.122.13:8000/play/041
-#EXTINF:-1,39.HBO 2
+#EXTINF:-1,40.HBO 2
 http://209.45.81.84:8000/play/a00u
-#EXTINF:-1,40.HBO Plus
+#EXTINF:-1,41.HBO Plus
 http://201.159.113.219:49000/play/a00n/index.m3u8
-#EXTINF:-1,41.HBO Family
+#EXTINF:-1,42.HBO Family
 http://45.181.122.13:8000/play/043
-#EXTINF:-1,42.HBO Signature
+#EXTINF:-1,43.HBO Signature
 http://201.222.44.220:4227/play/a050/index.m3u8
-#EXTINF:-1,43 HBO POP
+#EXTINF:-1,44 HBO POP
 http://45.238.21.84:8000/play/a066
-#EXTINF:-1,44.HBO Xtreme
+#EXTINF:-1,45.HBO Xtreme
 http://190.116.90.43:8000/play/a00w
-#EXTINF:-1,45.HBO Mundi
+#EXTINF:-1,46.HBO Mundi
 http://45.238.21.84:8000/play/a0ei
-#EXTINF:-1,46.Natgeo
+#EXTINF:-1,47.Natgeo
 http://181.78.8.90:16123/play/ch30
-#EXTINF:-1,47.History 
+#EXTINF:-1,48.History 
 http://38.41.8.1:8000/play/a04p
-#EXTINF:-1,48. Discovery Home and Health
+#EXTINF:-1,49. Discovery Home and Health
 http://191.97.58.41:8001/play/a018
-#EXTINF:-1,49.Animal Planet
+#EXTINF:-1,50.Animal Planet
 http://177.93.46.163:8000/play/a010
-#EXTINF:-1,50.El Gourmet
+#EXTINF:-1,51.El Gourmet
 http://200.59.188.3:8000/play/a01a
-#EXTINF:-1,51.TLC
+#EXTINF:-1,52.TLC
 http://181.78.8.90:16123/play/ch26
-#EXTINF:-1,52.HTV
+#EXTINF:-1,53.HTV
 http://181.78.64.71:16123/play/a08x
-#EXTINF:-1,53.MTV
+#EXTINF:-1,54.MTV
 http://38.41.8.1:8000/play/a02u
-#EXTINF:-1,54.MuchMusic
+#EXTINF:-1,55.MuchMusic
 http://45.228.234.173:8000/play/a03d/index.m3u8
-#EXTINF:-1,55.MTV 00's
+#EXTINF:-1,56.MTV 00's
 http://45.238.21.84:8000/play/a06o
-#EXTINF:-1,56.MTV Hits
+#EXTINF:-1,57.MTV Hits
 http://181.78.105.146:8800/play/a047
-#EXTINF:-1,57. NickMusic
+#EXTINF:-1,58. NickMusic
 http://45.190.187.241:58001/play/a0cv/index.m3u8
-#EXTINF:-1,58.BitMe
+#EXTINF:-1,59.BitMe
 http://186.148.178.214:8090/play/a013/index.m3u8
 
 

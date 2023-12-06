@@ -74,6 +74,8 @@ http://190.211.250.148:8000/play/a03g
 #EXTINF:-1,37.TeenNick
 http://161.132.108.72:50001/play/a047/index.m3u8
 #EXTINF:-1,38.Magic Club
+https://cloudfront.prdv3.dlivecdn.com/magicclubok/1701830440/src/live.m3u8
+#EXTINF:-1,38.Magic Club SD
 https://xhateaec.com:8800/hls/canal19arg/canal19arg/fa85b5d8f08f4aeb8ad3a4c891569e4f/index.m3u8
 #EXTINF:-1,39.HBO
 http://45.181.122.13:8000/play/041

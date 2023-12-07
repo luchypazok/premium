@@ -21,8 +21,7 @@ http://200.59.188.3:8000/play/a02v
 http://181.78.67.53:8004/play/a04i/index.m3u8
 #EXTINF:-1,11.USA
 http://181.129.198.235:8000/play/a07v/index.m3u8
-#EXTINF-1,12.Sony Movies
-http://179.1.48.62:4000/play/a01a/index.m3u8
+#EXTINF-1,12.
 #EXTINF:-1,13.Sony Channel
 http://187.102.208.108:50001/play/a002/index.m3u8
 #EXTINF:-1,14.Warner Channel
@@ -55,8 +54,8 @@ http://190.211.250.148:8000/play/a03o
 http://45.181.122.13:8000/play/015
 #EXTINF:-1,28.Disney Channel
 http://177.93.46.163:8000/play/a00y
-#EXTINF:-1,29.Nickelodeon SD
-http://181.204.79.182:9609/play/a00a
+#EXTINF:-1,29.Magic Club
+https://hugh.cdn.rumble.cloud/live/v13wgnv6/slot-43/nvc8-p9dn_720p/chunklist_DVR.m3u8
 #EXTINF:-1,30.Nickelodeon HD
 http://45.5.119.228:8000/play/a08j/index.m3u8
 #EXTINF:-1,31.Pandamax
@@ -65,58 +64,65 @@ https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 http://181.78.8.90:16123/play/a068
 #EXTINF:-1,33.Cartoonito
 http://45.238.21.84:8000/play/a0es
-#EXTINF:-1,34.Dreamworks
+#EXTINF:-1,34.Boing
+http://85.48.102.10:8000/play/a0g1
+#EXTINF:-1,35.Dreamworks
 http://181.119.66.30:8000/play/82/index.m3u8
-#EXTINF:-1,35.Discovery Kids
+#EXTINF:-1,36.Discovery Kids
 http://45.181.122.13:8000/play/017
-#EXTINF:-1,36.Clan
+#EXTINF:-1,37.Clan
 http://190.211.250.148:8000/play/a03g
-#EXTINF:-1,37.TeenNick
+#EXTINF:-1,38.TeenNick
 http://161.132.108.72:50001/play/a047/index.m3u8
-#EXTINF:-1,38.Magic Club
-https://hugh.cdn.rumble.cloud/live/v13wgnv6/slot-43/nvc8-p9dn_720p/chunklist_DVR.m3u8
-#EXTINF:-1,39.HBO
+#EXTINF:-1,39.BitMe
+http://38.44.109.41:8888/play/a00f
+#EXTINF:-1,40.HBO
 http://45.181.122.13:8000/play/041
-#EXTINF:-1,40.HBO 2
+#EXTINF:-1,41.HBO 2
 http://209.45.81.84:8000/play/a00u
-#EXTINF:-1,41.HBO Plus
+#EXTINF:-1,42.HBO Plus
 http://201.159.113.219:49000/play/a00n/index.m3u8
-#EXTINF:-1,42.HBO Family
+#EXTINF:-1,43.HBO Family
 http://45.181.122.13:8000/play/043
-#EXTINF:-1,43.HBO Signature
+#EXTINF:-1,44.HBO Signature
 http://201.222.44.220:4227/play/a050/index.m3u8
-#EXTINF:-1,44 HBO POP
+#EXTINF:-1,45.HBO POP
 http://45.238.21.84:8000/play/a066
-#EXTINF:-1,45.HBO Xtreme
+#EXTINF:-1,46.HBO Xtreme
 http://190.116.90.43:8000/play/a00w
-#EXTINF:-1,46.HBO Mundi
+#EXTINF:-1,47.HBO Mundi
 http://45.238.21.84:8000/play/a0ei
-#EXTINF:-1,47.Natgeo
+EXTINF:-1,48.Sony Movies
+http://179.1.48.62:4000/play/a01a/index.m3u8
+#EXTINF:-1,49.Natgeo
 http://181.78.8.90:16123/play/ch30
-#EXTINF:-1,48.History 
+#EXTINF:-1,50.History 
 http://38.41.8.1:8000/play/a04p
-#EXTINF:-1,49. Discovery Home and Health
+#EXTINF:-1,51. Discovery Home and Health
 http://191.97.58.41:8001/play/a018
-#EXTINF:-1,50.Animal Planet
+#EXTINF:-1,52.Animal Planet
 http://177.93.46.163:8000/play/a010
-#EXTINF:-1,51.El Gourmet
+#EXTINF:-1,53.El Gourmet
 http://200.59.188.3:8000/play/a01a
-#EXTINF:-1,52.TLC
+#EXTINF:-1,54.TLC
 http://181.78.8.90:16123/play/ch26
-#EXTINF:-1,53.HTV
+#EXTINF:-1,55.HTV
 http://181.78.64.71:16123/play/a08x
-#EXTINF:-1,54.MTV
+#EXTINF:-1,56.MTV
 http://38.41.8.1:8000/play/a02u
-#EXTINF:-1,55.MuchMusic
+#EXTINF:-1,57.MuchMusic
 http://45.228.234.173:8000/play/a03d/index.m3u8
-#EXTINF:-1,56.MTV 00's
+#EXTINF:-1,58.MTV 00's
 http://45.238.21.84:8000/play/a06o
-#EXTINF:-1,57.MTV Hits
+#EXTINF:-1,59.MTV Hits
 http://181.78.105.146:8800/play/a047
-#EXTINF:-1,58. NickMusic
+#EXTINF:-1,60.NickMusic
 http://45.190.187.241:58001/play/a0cv/index.m3u8
-#EXTINF:-1,59.BitMe
-http://186.148.178.214:8090/play/a013/index.m3u8
+#EXTINF:-1,61 Telehit
+http://200.116.199.180:8000/play/a05w
+#EXTINF:-1,62.Fuji TV 
+https://fujitv4.mov3.co/hls/fujitv.m3u8
+
 
 
 

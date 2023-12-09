@@ -56,7 +56,7 @@ http://45.181.122.13:8000/play/015
 #EXTINF:-1,28.Disney Channel
 http://177.93.46.163:8000/play/a00y
 #EXTINF:-1,29.Magic Club
-https://live.autistici.org/hls/magicclub_src.m3u8
+https://peertube.su/static/streaming-playlists/hls/819ccea4-afea-4e6f-bf99-5453f692acaa/0.m3u8
 #EXTINF:-1,30.Nickelodeon HD
 http://45.5.119.228:8000/play/a08j/index.m3u8
 #EXTINF:-1,31.Pandamax

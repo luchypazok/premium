@@ -22,6 +22,7 @@ http://181.78.67.53:8004/play/a04i/index.m3u8
 #EXTINF:-1,11.USA
 http://181.129.198.235:8000/play/a07v/index.m3u8
 #EXTINF-1,12.Comedy Central
+
 http://181.78.105.146:6060/play/a03m
 #EXTINF:-1,13.Sony Channel
 http://187.102.208.108:50001/play/a002/index.m3u8
@@ -56,7 +57,7 @@ http://45.181.122.13:8000/play/015
 #EXTINF:-1,28.Disney Channel
 http://177.93.46.163:8000/play/a00y
 #EXTINF:-1,29.Magic Club
-https://peertube.su/static/streaming-playlists/hls/819ccea4-afea-4e6f-bf99-5453f692acaa/0.m3u8
+https://xhateaec.com:8800/hls/magicclub/magicclub/481e1b4571f3e4598d685dac94c417e3/index.m3u8
 #EXTINF:-1,30.Nickelodeon HD
 http://45.5.119.228:8000/play/a08j/index.m3u8
 #EXTINF:-1,31.Pandamax
@@ -121,8 +122,6 @@ http://181.78.105.146:8800/play/a047
 http://45.190.187.241:58001/play/a0cv/index.m3u8
 #EXTINF:-1,61 Telehit
 http://200.116.199.180:8000/play/a05w
-#EXTINF:-1,62.Fuji TV 
-https://fujitv4.mov3.co/hls/fujitv.m3u8
 
 
 

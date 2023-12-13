@@ -21,9 +21,6 @@ http://200.59.188.3:8000/play/a02v
 http://181.78.67.53:8004/play/a04i/index.m3u8
 #EXTINF:-1,11.USA
 http://181.129.198.235:8000/play/a07v/index.m3u8
-#EXTINF-1,12.Comedy Central
-
-http://181.78.105.146:6060/play/a03m
 #EXTINF:-1,13.Sony Channel
 http://187.102.208.108:50001/play/a002/index.m3u8
 #EXTINF:-1,14.Warner Channel
@@ -57,7 +54,7 @@ http://45.181.122.13:8000/play/015
 #EXTINF:-1,28.Disney Channel
 http://177.93.46.163:8000/play/a00y
 #EXTINF:-1,29.Magic Club
-https://xhateaec.com:8800/hls/magicclub/magicclub/481e1b4571f3e4598d685dac94c417e3/index.m3u8
+https://live.xhateaec.com/livestreams/25.N6SLVnfuty3hj2FX.m3u8
 #EXTINF:-1,30.Nickelodeon HD
 http://45.5.119.228:8000/play/a08j/index.m3u8
 #EXTINF:-1,31.Pandamax

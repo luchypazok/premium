@@ -1,123 +1,123 @@
 #EXTINF
-#EXTINF:-1,1.Cinecanal
+#EXTINF:-1,Cinecanal
 http://45.238.21.84:8000/play/a07g
-#EXTINF:-1,2.TNT
+#EXTINF:-1,TNT
 http://38.41.8.1:8000/play/a04z
-#EXTINF:-1,3.AMC
+#EXTINF:-1,AMC
 http://200.59.188.3:8000/play/a01y
-#EXTINF:-1,4.TCM
+#EXTINF:-1,TCM
 http://138.219.58.234:8112/play/110
-#EXTINF:-1, 5.Space
+#EXTINF:-1,Space
 http://181.78.8.90:16123/play/a066
-#EXTINF:-1,6.Adult Swim LA
+#EXTINF:-1,Adult Swim LA
 http://181.78.8.90:16123/play/ch75
-#EXTINF:-1,7.Telefe
+#EXTINF:-1,Telefe
 http://45.4.3.74:7577/play/a15l/index.m3u8
-#EXTINF:-1,8.Net TV
+#EXTINF:-1,Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-#EXTINF:-1,9.Star Channel
+#EXTINF:-1,Star Channel
 http://200.59.188.3:8000/play/a02v
-#EXTINF:-1,10.Universal
+#EXTINF:-1,Universal
 http://181.78.67.53:8004/play/a04i/index.m3u8
-#EXTINF:-1,11.USA
+#EXTINF:-1,USA
 http://181.129.198.235:8000/play/a07v/index.m3u8
-#EXTINF:-1,13.Sony Channel
+#EXTINF:-1,Sony Channel
 http://187.102.208.108:50001/play/a002/index.m3u8
-#EXTINF:-1,14.Warner Channel
+#EXTINF:-1,Warner Channel
 http://38.41.8.1:8000/play/a07n
-#EXTINF:-1,15.Cinemax
+#EXTINF:-1,Cinemax
 http://138.219.58.234:8112/play/112
-#EXTINF:-1,16.Studio Universal
+#EXTINF:-1,Studio Universal
 http://200.59.188.3:8000/play/a06r
-#EXTINF:-1,17.TNT Series
+#EXTINF:-1,TNT Series
 http://181.78.64.71:16123/play/a069
-#EXTINF:-1,18. AXN
+#EXTINF:-1,AXN
 http://45.232.210.3:8000/play/a06f
-#EXTINF:-1,19.Discovery
+#EXTINF:-1,Discovery
 http://38.41.8.1:8000/play/a02y
-#EXTINF:-1,20.Discovery ID
+#EXTINF:-1,Discovery ID
 http://138.219.58.234:8112/play/079
-#EXTINF:-1,21.Clover Channel
+#EXTINF:-1,Clover Channel
 http://138.186.20.13:23200/play/a04t
-#EXTINF:-1,22.Comedy Central
+#EXTINF:-1,Comedy Central
 http://181.78.105.146:8800/play/a064
-#EXTINF:-1,23.TNT Novelas
+#EXTINF:-1,TNT Novelas
 http://190.61.43.119:45000/play/a06u
-#EXTINF:-1,24.Lifetime
+#EXTINF:-1,Lifetime
 http://138.219.58.234:8112/play/100
-#EXTINF:-1,25.Paka Paka
+#EXTINF:-1,Paka Paka
 http://200.63.95.6:8000/play/a03x/index.m3u8
-#EXTINF:-1,26.Disney Junior
+#EXTINF:-1,Disney Junior
 http://190.211.250.148:8000/play/a03o
-#EXTINF:-1,27.Cartoon Network
+#EXTINF:-1,Cartoon Network
 http://45.181.122.13:8000/play/015
-#EXTINF:-1,28.Disney Channel
+#EXTINF:-1,Disney Channel
 http://177.93.46.163:8000/play/a00y
-#EXTINF:-1,29.Magic Club
-https://xhateaec.com:8800/hls/magicclub/magicclub/481e1b4571f3e4598d685dac94c417e3/index.m3u8
-#EXTINF:-1,30.Nickelodeon HD
+#EXTINF:-1,Magic Club
+https://live.xhateaec.com/livestreams/25.N6SLVnfuty3hj2FX.m3u8
+#EXTINF:-1,Nickelodeon HD
 http://45.5.119.228:8000/play/a08j/index.m3u8
-#EXTINF:-1,31.Pandamax
+#EXTINF:-1,Pandamax
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
-#EXTINF:-1,32.Tooncast
+#EXTINF:-1,Tooncast
 http://181.78.8.90:16123/play/a068
-#EXTINF:-1,33.Cartoonito
+#EXTINF:-1,Cartoonito
 http://45.238.21.84:8000/play/a0es
-#EXTINF:-1,34.Boing
+#EXTINF:-1,Boing
 http://85.48.102.10:8000/play/a0g1
-#EXTINF:-1,35.Dreamworks
+#EXTINF:-1,Dreamworks
 http://181.119.66.30:8000/play/82/index.m3u8
-#EXTINF:-1,36.Discovery Kids
+#EXTINF:-1,Discovery Kids
 http://45.181.122.13:8000/play/017
-#EXTINF:-1,37.Clan
+#EXTINF:-1,Clan
 http://190.211.250.148:8000/play/a03g
-#EXTINF:-1,38.TeenNick
+#EXTINF:-1,TeenNick
 http://161.132.108.72:50001/play/a047/index.m3u8
-#EXTINF:-1,39.BitMe
+#EXTINF:-1,BitMe
 http://38.44.109.41:8888/play/a00f
-#EXTINF:-1,40.HBO
+#EXTINF:-1,HBO
 http://45.181.122.13:8000/play/041
-#EXTINF:-1,41.HBO 2
+#EXTINF:-1,HBO 2
 http://209.45.81.84:8000/play/a00u
-#EXTINF:-1,42.HBO Plus
+#EXTINF:-1,HBO Plus
 http://201.159.113.219:49000/play/a00n/index.m3u8
-#EXTINF:-1,43.HBO Family
+#EXTINF:-1,HBO Family
 http://45.181.122.13:8000/play/043
-#EXTINF:-1,44.HBO Signature
+#EXTINF:-1,HBO Signature
 http://201.222.44.220:4227/play/a050/index.m3u8
-#EXTINF:-1,45.HBO POP
+#EXTINF:-1,HBO POP
 http://45.238.21.84:8000/play/a066
-#EXTINF:-1,46.HBO Xtreme
+#EXTINF:-1,HBO Xtreme
 http://190.116.90.43:8000/play/a00w
-#EXTINF:-1,47.HBO Mundi
+#EXTINF:-1,HBO Mundi
 http://45.238.21.84:8000/play/a0ei
-#EXTINF:-1,48.Sony Movies
+#EXTINF:-1,Sony Movies
 http://179.1.48.62:4000/play/a01a/index.m3u8
-#EXTINF:-1,49.Natgeo
+#EXTINF:-1,Natgeo
 http://181.78.8.90:16123/play/ch30
-#EXTINF:-1,50.History 
+#EXTINF:-1,History 
 http://38.41.8.1:8000/play/a04p
-#EXTINF:-1,51. Discovery Home and Health
+#EXTINF:-1,Discovery Home and Health
 http://191.97.58.41:8001/play/a018
-#EXTINF:-1,52.Animal Planet
+#EXTINF:-1,Animal Planet
 http://177.93.46.163:8000/play/a010
-#EXTINF:-1,53.El Gourmet
+#EXTINF:-1,El Gourmet
 http://200.59.188.3:8000/play/a01a
-#EXTINF:-1,54.TLC
+#EXTINF:-1,TLC
 http://181.78.8.90:16123/play/ch26
-#EXTINF:-1,55.HTV
+#EXTINF:-1,HTV
 http://181.78.64.71:16123/play/a08x
-#EXTINF:-1,56.MTV
+#EXTINF:-1,MTV
 http://38.41.8.1:8000/play/a02u
-#EXTINF:-1,57.MuchMusic
+#EXTINF:-1,MuchMusic
 http://45.228.234.173:8000/play/a03d/index.m3u8
-#EXTINF:-1,58.MTV 00's
+#EXTINF:-1,MTV 00's
 http://45.238.21.84:8000/play/a06o
-#EXTINF:-1,59.MTV Hits
+#EXTINF:-1,MTV Hits
 http://181.78.105.146:8800/play/a047
-#EXTINF:-1,60.NickMusic
+#EXTINF:-1,NickMusic
 http://45.190.187.241:58001/play/a0cv/index.m3u8
-#EXTINF:-1,61 Telehit
+#EXTINF:-1,Telehit
 http://200.116.199.180:8000/play/a05w
 
 

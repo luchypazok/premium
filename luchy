@@ -1,6 +1,6 @@
 #EXTINF
 #EXTINF:-1,Cinecanal
-http://45.238.21.84:8000/play/a07g
+http://209.45.81.84:8000/play/a00o
 #EXTINF:-1,TNT
 http://38.41.8.1:8000/play/a04z
 #EXTINF:-1,AMC
@@ -54,7 +54,7 @@ http://45.181.122.13:8000/play/015
 #EXTINF:-1,Disney Channel
 http://177.93.46.163:8000/play/a00y
 #EXTINF:-1,Magic Club
-https://live.xhateaec.com/livestreams/25.N6SLVnfuty3hj2FX.m3u8
+https://xhateaec.com:8800/hls/magicclub/magicclub/481e1b4571f3e4598d685dac94c417e3/index.m3u8
 #EXTINF:-1,Nickelodeon HD
 http://45.5.119.228:8000/play/a08j/index.m3u8
 #EXTINF:-1,Pandamax

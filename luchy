@@ -17,7 +17,7 @@ http://181.78.105.146:6060/play/a01n
 http://45.4.3.75:7577/play/a15l/index.m3u8
 #EXTINF:-1,Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-#EXTINF:-1 tvg-id="Net TV" tvg-name="Net TV" tvg-logo="https://i.imgur.com/TiMro4V.png"
+#EXTINF:-1,STAR Channel
 http://200.59.188.3:8000/play/a02v
 #EXTINF:-1,Universal
 http://181.78.67.53:8004/play/a04i/index.m3u8

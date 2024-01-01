@@ -1,21 +1,21 @@
 #EXTINF
-#EXTINF:-1 tvg-id="Magic Club" tvg-name="Magic Club" tvg-logo="https://i.imgur.com/Q1hmSmE.png"
+#EXTINF:-1,Magic Club
 https://live.autistici.org/hls/magicclub_src.m3u8
-#EXTINF:-1 tvg-id="Cinecanal" tvg-name="Cinecanal" tvg-logo="https://i.imgur.com/5OSmSvC.png"
+#EXTINF:-1,Cinecanal
 http://209.45.81.84:8000/play/a00o
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://i.imgur.com/JV11SYn.jpg"
+#EXTINF:-1,TNT
 http://38.41.8.1:8000/play/a04z
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://i.imgur.com/U6v5pfn.jpg"
+#EXTINF:-1,AMC
 http://200.59.188.3:8000/play/a01y
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://i.imgur.com/vg6VQIg.png"
+#EXTINF:-1,TCM
 http://138.219.58.234:8112/play/110
-#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="https://i.imgur.com/NFTamQU.png"
+#EXTINF:-1 Space
 http://181.78.8.90:16123/play/a066
-#EXTINF:-1 tvg-id="Adult Swim LA" tvg-name="Adult Swim LA" tvg-logo="https://i.imgur.com/31sqieB.jpg"
+#EXTINF:-1,Adult Swim LA
 http://181.78.105.146:6060/play/a01n
-#EXTINF:-1 tvg-id="Telefé" tvg-name="Telefe" tvg-logo="https://i.imgur.com/uvPL7N7.jpg"
+#EXTINF:-1,Telefe
 http://45.4.3.75:7577/play/a15l/index.m3u8
-#EXTINF:-1 tvg-id="Net TV" tvg-name="Net TV" tvg-logo="https://i.imgur.com/TiMro4V.png"
+#EXTINF:-1,Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 #EXTINF:-1 tvg-id="Net TV" tvg-name="Net TV" tvg-logo="https://i.imgur.com/TiMro4V.png"
 http://200.59.188.3:8000/play/a02v

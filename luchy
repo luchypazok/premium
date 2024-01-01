@@ -9,13 +9,13 @@ http://38.41.8.1:8000/play/a04z
 http://200.59.188.3:8000/play/a01y
 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://i.imgur.com/vg6VQIg.png"
 http://138.219.58.234:8112/play/110
-#EXTINF:-1,Space
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="https://i.imgur.com/NFTamQU.png"
 http://181.78.8.90:16123/play/a066
-#EXTINF:-1,Adult Swim LA
-http://181.78.8.90:16123/play/ch75
-#EXTINF:-1,Telefe
-http://45.4.3.74:7577/play/a15l/index.m3u8
-#EXTINF:-1,Net TV
+#EXTINF:-1 tvg-id="Adult Swim LA" tvg-name="Adult Swim LA" tvg-logo="https://i.imgur.com/31sqieB.jpg"
+http://181.78.105.146:6060/play/a01n
+#EXTINF:-1 tvg-id="Telefé" tvg-name="Telefe" tvg-logo="https://i.imgur.com/uvPL7N7.jpg"
+http://45.4.3.75:7577/play/a15l/index.m3u8
+#EXTINF:-1 tvg-id="Net TV" tvg-name="Net TV" tvg-logo="https://i.imgur.com/TiMro4V.png"
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 #EXTINF:-1,Star Channel
 http://200.59.188.3:8000/play/a02v

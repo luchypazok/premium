@@ -1,11 +1,13 @@
 #EXTINF
-#EXTINF:-1,Cinecanal
+#EXTINF:-1 tvg-id="Magic Club" tvg-name="Magic Club" tvg-logo="https://i.imgur.com/Q1hmSmE.png"
+https://live.autistici.org/hls/magicclub_src.m3u8
+#EXTINF:-1 tvg-id="Cinecanal" tvg-name="Cinecanal" tvg-logo="https://i.imgur.com/5OSmSvC.png"
 http://209.45.81.84:8000/play/a00o
-#EXTINF:-1,TNT
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://i.imgur.com/JV11SYn.jpg"
 http://38.41.8.1:8000/play/a04z
-#EXTINF:-1,AMC
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://i.imgur.com/U6v5pfn.jpg"
 http://200.59.188.3:8000/play/a01y
-#EXTINF:-1,TCM
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://i.imgur.com/vg6VQIg.png"
 http://138.219.58.234:8112/play/110
 #EXTINF:-1,Space
 http://181.78.8.90:16123/play/a066

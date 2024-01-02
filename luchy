@@ -9,7 +9,7 @@ http://38.41.8.1:8000/play/a04z
 http://200.59.188.3:8000/play/a01y
 #EXTINF:-1,TCM
 http://138.219.58.234:8112/play/110
-#EXTINF:-1 Space
+#EXTINF:-1 SPACE
 http://181.78.8.90:16123/play/a066
 #EXTINF:-1,Adult Swim LA
 http://181.78.105.146:6060/play/a01n
@@ -62,7 +62,7 @@ http://45.181.121.57:2909/play/014
 #EXTINF:-1,Pandamax
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1,Tooncast
-http://45.5.117.182:8000/play/a0hm/index.m3u8
+http://181.119.66.30:8000/play/84/index.m3u8
 #EXTINF:-1,Cartoonito
 http://45.238.21.84:8000/play/a0es
 #EXTINF:-1,Boing

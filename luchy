@@ -43,6 +43,8 @@ http://38.41.8.1:8000/play/a02y
 http://138.219.58.234:8112/play/079
 #EXTINF:-1,Clover Channel
 http://138.186.20.13:23200/play/a04t
+#EXTINF:-1, Locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1,Comedy Central
 http://181.78.105.146:8800/play/a064
 #EXTINF:-1,TNT Novelas

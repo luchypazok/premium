@@ -15,8 +15,6 @@ http://138.219.58.234:8112/play/110
 http://181.78.8.90:16123/play/a066
 #EXTINF:-1, Adult Swim LA
 http://181.78.105.146:6060/play/a01n
-#EXTINF:-1, Orbe 23
-https://stream.arcast.net:4443/canal21/ngrp:canal21_all/chunklist_w962090327_b2211840.m3u8
 #EXTINF:-1,Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 #EXTINF:-1.Telefe

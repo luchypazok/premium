@@ -13,12 +13,24 @@ http://138.219.58.234:8112/play/110
 http://181.78.8.90:16123/play/a066
 #EXTINF:-1,Adult Swim LA
 http://181.78.105.146:6060/play/a01n
-#EXTINF:-1,Telefe
-http://45.4.3.75:7577/play/a15l/index.m3u8
-#EXTINF:, Canal 13
+#EXTINF:-1,Orbe 23
+https://stream.arcast.net:4443/canal21/ngrp:canal21_all/chunklist_w962090327_b2211840.m3u8
+#EXTINF:-1,Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
+#EXTINF:-1.Telefe
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Telefe)/05.m3u8
+#EXTINF:-1,Canal 8 Mar del Plata
+https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/chunklist_w969723853_b1662976.m3u8
+#EXTINF:-1,Telefe Córdoba
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Telefe_Cordoba)/07.m3u8
+#EXTINF:-1, TVP
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
+#EXTINF:-1,Canal 13
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+#EXTINF:-1, Music TOP
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 #EXTINF:-1,STAR Channel
 http://200.59.188.3:8000/play/a02v
 #EXTINF:-1,Universal

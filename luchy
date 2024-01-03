@@ -1,4 +1,6 @@
 #EXTINF
+#EXTINF:-1,Toonizaki on Demand
+https://live.autistici.org/hls/rocketdemand_src.m3u8
 #EXTINF:-1,TierraMia TV
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
 #EXTINF:-1,Magic Club

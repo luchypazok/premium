@@ -3,6 +3,8 @@
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 #EXTINF:-1, Music TOP
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+#EXTINF:-1,America TV
+http://190.94.186.158:9981/play/a030
 #EXTINF:-1,C5N
 http://45.5.151.151:8000/play/a018/index.m3u8
 #EXTINF:-1,TVP
@@ -74,6 +76,8 @@ http://190.116.90.43:8000/play/a00w
 http://45.238.21.84:8000/play/a0ei
 #EXTINF:-1,Sony Movies
 http://179.1.48.62:4000/play/a01a/index.m3u8
+#EXTINF:-1,Ciudad Magazine
+http://45.5.151.151:8000/play/a020/index.m3u8
 #EXTINF:-1,STAR Channel
 http://200.59.188.3:8000/play/a02v
 #EXTINF:-1,Universal

@@ -1,6 +1,10 @@
 #EXTINF
 #EXTINF:-1,Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
+#EXTINF:-1, Music TOP
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+#EXTINF:-1,C5N
+http://45.5.151.151:8000/play/a018/index.m3u8
 #EXTINF:-1, TVP
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
 #EXTINF:-1,Telefe
@@ -11,10 +15,6 @@ https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/chunklist_w969723853_b1662976.
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-#EXTINF:-1, Music TOP
-https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
-#EXTINF:-1,C5N
-http://45.5.151.151:8000/play/a018/index.m3u8
 #EXTINF:-1,Magic Club
 https://live.autistici.org/hls/magicclub_src.m3u8
 #EXTINF:-1,Cinecanal

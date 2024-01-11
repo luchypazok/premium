@@ -21,18 +21,6 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 #EXTINF:-1,Magic Club
 https://live.autistici.org/hls/magicclub_src.m3u8
-#EXTINF:-1,Cinecanal
-http://209.45.81.84:8000/play/a00o
-#EXTINF:-1,TNT
-http://38.41.8.1:8000/play/a04z
-#EXTINF:-1,AMC
-http://200.59.188.3:8000/play/a01y
-#EXTINF:-1,TCM
-http://138.219.58.234:8112/play/110
-#EXTINF:-1,SPACE
-http://181.78.8.90:16123/play/a066
-#EXTINF:-1, Adult Swim LA
-http://181.78.105.146:6060/play/a01n
 
 
 #EXTINF:-1,STAR Channel
@@ -52,7 +40,7 @@ http://138.219.58.234:8112/play/112
 #EXTINF:-1,Studio Universal
 http://200.59.188.3:8000/play/a06r
 #EXTINF:-1,TNT Series
-http://190.61.43.119:45000/play/a06u
+http://200.58.79.74:8000/play/a04q
 #EXTINF:-1,AXN
 http://45.232.210.3:8000/play/a06f
 #EXTINF:-1,Discovery
@@ -63,16 +51,24 @@ http://138.219.58.234:8112/play/079
 http://138.186.20.13:23200/play/a04t
 #EXTINF:-1,TC Televisión
 http://45.179.140.242:8000/play/a0j0
-#EXTINF:-1, Locomotion
-http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1,ETC TV
-http://177.128.113.8/play/a0a6
 #EXTINF:-1,Comedy Central
 http://181.78.105.146:8800/play/a064
 #EXTINF:-1,TNT Novelas
 http://190.61.43.119:45000/play/a06u
 #EXTINF:-1,Lifetime
 http://138.219.58.234:8112/play/100
+#EXTINF:-1,Cinecanal
+http://209.45.81.84:8000/play/a00o
+#EXTINF:-1,TNT
+http://38.41.8.1:8000/play/a04z
+#EXTINF:-1,AMC
+http://200.59.188.3:8000/play/a01y
+#EXTINF:-1,TCM
+http://138.219.58.234:8112/play/110
+#EXTINF:-1,SPACE
+http://181.78.8.90:16123/play/a066
+#EXTINF:-1, Adult Swim LA
+http://181.78.105.146:6060/play/a01n
 #EXTINF:-1,Paka Paka
 http://200.63.95.6:8000/play/a03x/index.m3u8
 #EXTINF:-1,Disney Channel
@@ -99,6 +95,10 @@ https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 http://190.211.250.148:8000/play/a03g
 #EXTINF:-1,TeenNick
 http://161.132.108.72:50001/play/a047/index.m3u8
+#EXTINF:-1, Locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1,ETC TV
+http://177.128.113.8/play/a0a6
 #EXTINF:-1,BitMe
 http://38.44.109.41:8888/play/a00f
 #EXTINF:-1,HBO

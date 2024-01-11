@@ -136,7 +136,9 @@ http://177.93.46.163:8000/play/a010
 http://200.59.188.3:8000/play/a01a
 #EXTINF:-1,TLC
 http://181.78.8.90:16123/play/ch26
-#EXTINF:-1,HTV
+#EXTINF:-1,Quiero Musica
+http://209.45.101.38:8000/play/a0aq
+#EXTINF:-1,HTV (Disponible hasta el 29 de Febrero)
 http://181.78.64.71:16123/play/a08x
 #EXTINF:-1,MTV
 http://38.41.8.1:8000/play/a02u

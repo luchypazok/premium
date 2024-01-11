@@ -21,10 +21,6 @@ http://45.5.151.151:8000/play/a0bj/index.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-#EXTINF:-1,Magic Club
-https://live.autistici.org/hls/magicclub_src.m3u8
-
-
 
 #EXTINF:-1,Paka Paka
 http://200.63.95.6:8000/play/a03x/index.m3u8

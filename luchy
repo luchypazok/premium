@@ -9,14 +9,12 @@ http://190.94.186.158:9981/play/a030
 http://45.5.151.151:8000/play/a018/index.m3u8
 #EXTINF:-1,TVP
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
-#EXTINF:-1,Telefe
-http://45.5.151.151:8000/play/a0kf/index.m3u8
 #EXTINF:-1,Cronica TV
 http://200.63.95.6:8000/play/a00y
-#EXTINF:-1,Canal 8 Mar del Plata (Telefé)
-https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/chunklist_w969723853_b1662976.m3u8
 #EXTINF:-1,Canal 9
 http://45.5.151.151:8000/play/a0bj/index.m3u8
+#EXTINF:-1,Telefe
+http://45.5.151.151:8000/play/a0kf/index.m3u8
 #EXTINF:-1,Canal 13
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Net TV

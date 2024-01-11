@@ -1,4 +1,20 @@
 #EXTINF
+#EXTINF:-1,Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
+#EXTINF:-1, TVP
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
+#EXTINF:-1,Telefe
+http://45.5.151.151:8000/play/a0kf/index.m3u8
+#EXTINF:-1,Canal 8 Mar del Plata
+https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/chunklist_w969723853_b1662976.m3u8
+#EXTINF:-1,Canal 13
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+#EXTINF:-1, Music TOP
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+#EXTINF:-1,C5N
+http://45.5.151.151:8000/play/a018/index.m3u8
 #EXTINF:-1,Magic Club
 https://live.autistici.org/hls/magicclub_src.m3u8
 #EXTINF:-1,Cinecanal
@@ -13,21 +29,8 @@ http://138.219.58.234:8112/play/110
 http://181.78.8.90:16123/play/a066
 #EXTINF:-1, Adult Swim LA
 http://181.78.105.146:6060/play/a01n
-#EXTINF:-1,Telemax
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 
-#EXTINF:-1,Telefe
-http://45.5.151.151:8000/play/a0kf/index.m3u8
-#EXTINF:-1,Canal 8 Mar del Plata
-https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/chunklist_w969723853_b1662976.m3u8
-#EXTINF:-1, TVP
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
-#EXTINF:-1,Canal 13
-https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Net TV
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-#EXTINF:-1, Music TOP
-https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+
 #EXTINF:-1,STAR Channel
 http://200.59.188.3:8000/play/a02v
 #EXTINF:-1,Universal
@@ -70,26 +73,22 @@ http://200.63.95.6:8000/play/a03x/index.m3u8
 http://190.211.250.148:8000/play/a03o
 #EXTINF:-1,Cartoon Network
 http://161.132.108.76:50001/play/a017/index.m3u8
-#EXTINF:-1,Cartoon Network Japón
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
-#EXTINF:-1,Cartoon Network Asia
-http://89.254.128.5:22280/cartoon_network/index.m3u8
+#EXTINF:-1,Tooncast
+http://177.128.113.8:2320/play/a09z
+#EXTINF:-1,Cartoonito
+http://45.238.21.84:8000/play/a0es
+#EXTINF:-1,Boing
+http://85.48.102.10:8000/play/a0g1
 #EXTINF:-1,Disney Channel
 http://45.181.121.57:2909/play/010
 #EXTINF:-1,Magic Club
 https://live.autistici.org/hls/magicclub_src.m3u8
 #EXTINF:-1,Nickelodeon HD
 http://45.181.121.57:2909/play/014
-#EXTINF:-1,Pandamax
-https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
-#EXTINF:-1,Tooncast
-http://181.119.66.30:8000/play/84/index.m3u8
-#EXTINF:-1,Cartoonito
-http://45.238.21.84:8000/play/a0es
-#EXTINF:-1,Boing
-http://85.48.102.10:8000/play/a0g1
 #EXTINF:-1,Discovery Kids
 http://45.181.122.13:8000/play/017
+#EXTINF:-1,Pandamax
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1,Clan
 http://190.211.250.148:8000/play/a03g
 #EXTINF:-1,TeenNick
@@ -140,7 +139,10 @@ http://181.78.105.146:8800/play/a047
 http://45.190.187.241:58001/play/a0cv/index.m3u8
 #EXTINF:-1,Telehit
 http://200.116.199.180:8000/play/a05w
-
+#EXTINF:-1,Cartoon Network Japón
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+#EXTINF:-1,Cartoon Network Asia
+http://89.254.128.5:22280/cartoon_network/index.m3u8
 
 
 

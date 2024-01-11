@@ -74,6 +74,16 @@ http://45.238.21.84:8000/play/a066
 http://190.116.90.43:8000/play/a00w
 #EXTINF:-1,HBO Mundi
 http://45.238.21.84:8000/play/a0ei
+#EXTINF:-1,Universal Premiere
+http://200.63.95.6:8000/play/a00c
+#EXTINF:-1,Universal Cinema
+http://200.63.95.6:8000/play/a00d
+#EXTINF:-1,Universal Comedy
+http://181.78.105.146:6060/play/a03t
+#EXTINF:-1,Universal Crime
+http://190.61.91.81:5000/play/a06q
+#EXTINF:-1,Universal Reality
+http://200.125.170.120:8000/play/a04q
 #EXTINF:-1,Sony Movies
 http://179.1.48.62:4000/play/a01a/index.m3u8
 #EXTINF:-1,Ciudad Magazine

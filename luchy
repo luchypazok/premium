@@ -126,9 +126,9 @@ http://200.59.188.3:8000/play/a01y
 http://138.219.58.234:8112/play/110
 #EXTINF:-1,SPACE
 http://181.78.8.90:16123/play/a066
-#EXTINF:-1, I.Sat (Será retirado el 29 de Febrero)
+#EXTINF:-1,I.Sat (Será retirado el 29 de Febrero)
 http://45.228.234.172:8000/play/a045/index.m3u8
-#EXTINF:-1, Adult Swim LA
+#EXTINF:-1,Adult Swim LA
 http://181.78.105.146:6060/play/a01n
 #EXTINF:-1,Natgeo
 http://181.78.8.90:16123/play/ch30

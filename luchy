@@ -16,6 +16,8 @@ http://181.78.105.146:6060/play/a01n
 #EXTINF:-1,Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 
+#EXTINF:-1,Telefe
+http://45.5.151.151:8000/play/a0kf/index.m3u8
 #EXTINF:-1,Canal 8 Mar del Plata
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/chunklist_w969723853_b1662976.m3u8
 #EXTINF:-1, TVP

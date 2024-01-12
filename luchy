@@ -19,6 +19,8 @@ http://45.5.151.151:8000/play/a0kf/index.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+#EXTINF:-1,KZO
+http://190.94.186.158:9981/play/a037
 
 #EXTINF:-1,Paka Paka
 http://200.63.95.6:8000/play/a03x/index.m3u8
@@ -84,6 +86,8 @@ http://200.125.170.120:8000/play/a04q
 http://179.1.48.62:4000/play/a01a/index.m3u8
 #EXTINF:-1,Ciudad Magazine
 http://45.5.151.151:8000/play/a020/index.m3u8
+#EXTINF:-1,AMC
+http://177.128.113.8:97/play/a08u
 #EXTINF:-1,STAR Channel
 http://200.59.188.3:8000/play/a02v
 #EXTINF:-1,Universal

@@ -84,10 +84,14 @@ http://190.61.91.81:5000/play/a06q
 http://200.125.170.120:8000/play/a04q
 #EXTINF:-1,Sony Movies
 http://179.1.48.62:4000/play/a01a/index.m3u8
+#EXTINF:-1,ESPN Premium
+http://45.5.151.151:8000/play/a0fe/index.m3u8
 #EXTINF:-1,Ciudad Magazine
 http://45.5.151.151:8000/play/a020/index.m3u8
 #EXTINF:-1,AMC
 http://177.128.113.8:97/play/a08u
+#EXTINF:-1,El Gourmet
+http://177.128.113.8/play/a089
 #EXTINF:-1,STAR Channel
 http://200.59.188.3:8000/play/a02v
 #EXTINF:-1,Universal

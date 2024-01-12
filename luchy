@@ -28,6 +28,8 @@ http://45.181.121.57:2909/play/010
 http://200.116.199.180:8000/play/a04t
 #EXTINF:-1,Cartoon Network
 http://161.132.108.76:50001/play/a017/index.m3u8
+#EXTINF:-1,Cartoon Network Argentina
+http://200.63.95.6:8000/play/a01i
 #EXTINF:-1,Tooncast
 http://177.128.113.8:2320/play/a09z
 #EXTINF:-1,Cartoonito

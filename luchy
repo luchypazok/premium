@@ -168,6 +168,8 @@ http://181.78.105.146:8800/play/a047
 http://45.190.187.241:58001/play/a0cv/index.m3u8
 #EXTINF:-1,Telehit
 http://200.116.199.180:8000/play/a05w
+#EXTINF:-1,Telehit Musica
+http://190.61.91.81:5000/play/a0bj
 #EXTINF:-1,Cartoon Network Japón
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 #EXTINF:-1,Cartoon Network Asia

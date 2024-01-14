@@ -172,8 +172,8 @@ http://200.116.199.180:8000/play/a05w
 http://190.61.91.81:5000/play/a0bj
 #EXTINF:-1,Cartoon Network Japón
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
-#EXTINF:-1,Cartoon Network Asia
-http://89.254.128.5:22280/cartoon_network/index.m3u8
+#EXTINF:-1,NHK World Premium Japan
+http://45.65.112.16:8000/play/a011
 
 
 

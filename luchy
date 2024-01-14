@@ -40,6 +40,8 @@ http://45.238.21.84:8000/play/a0es
 http://85.48.102.10:8000/play/a0g1
 #EXTINF:-1,Magic Club
 https://live.autistici.org/hls/magicclub_src.m3u8
+#EXTINF:-1,Dreamworks
+http://45.189.148.24:8000/play/a00m/index.m3u8
 #EXTINF:-1,Nickelodeon HD
 http://45.181.121.57:2909/play/014
 #EXTINF:-1,Discovery Kids

@@ -36,8 +36,7 @@ http://200.63.95.6:8000/play/a01i
 http://177.128.113.8:2320/play/a09z
 #EXTINF:-1,Cartoonito
 http://45.169.163.85:8000/play/a027
-#EXTINF:-1,Boing
-http://85.48.102.10:8000/play/a0g1
+
 #EXTINF:-1,Magic Club
 https://live.autistici.org/hls/magicclub_src.m3u8
 #EXTINF:-1,Dreamworks
@@ -167,7 +166,7 @@ http://45.238.21.84:8000/play/a06o
 #EXTINF:-1,MTV Hits
 http://181.78.105.146:8800/play/a047
 #EXTINF:-1,NickMusic
-http://45.190.187.241:58001/play/a0cv/index.m3u8
+http://201.168.136.173:8000/play/a0lt/index.m3u8
 #EXTINF:-1,Telehit
 http://200.116.199.180:8000/play/a05w
 #EXTINF:-1,Telehit Musica

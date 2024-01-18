@@ -29,15 +29,11 @@ http://45.181.121.57:2909/play/010
 #EXTINF:-1,Disney Junior
 http://200.116.199.180:8000/play/a04t
 #EXTINF:-1,Cartoon Network
-http://161.132.108.76:50001/play/a017/index.m3u8
-#EXTINF:-1,Cartoon Network Argentina
-http://200.63.95.6:8000/play/a01i
+http://177.128.113.8:548/play/a08x
 #EXTINF:-1,Tooncast
 http://177.128.113.8:2320/play/a09z
 #EXTINF:-1,Cartoonito
 http://45.169.163.85:8000/play/a027
-#EXTINF:-1,Clan
-http://191.97.60.193:10000/play/a02g/index.m3u8
 #EXTINF:-1,Magic Club
 https://live.autistici.org/hls/magicclub_src.m3u8
 #EXTINF:-1,Dreamworks
@@ -46,10 +42,10 @@ http://187.102.208.104:50001/play/a03x/index.m3u8
 http://45.181.121.57:2909/play/014
 #EXTINF:-1,Discovery Kids
 http://45.181.122.13:8000/play/017
-#EXTINF:-1,Pandamax
-https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1,Clan
 http://190.211.250.148:8000/play/a03g
+#EXTINF:-1,Pandamax
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1,TeenNick
 http://161.132.108.72:50001/play/a047/index.m3u8
 #EXTINF:-1,Locomotion

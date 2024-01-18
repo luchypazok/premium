@@ -104,6 +104,8 @@ http://38.41.8.1:8000/play/a07n
 http://181.78.1.158:8000/play/a03a/index.m3u8
 #EXTINF:-1,Cinemax
 http://138.219.58.234:8112/play/112
+#EXTINF:-1,Cine Latino
+http://138.118.105.190:8000/play/a057/index.m3u8
 #EXTINF:-1,Studio Universal
 http://200.59.188.3:8000/play/a06r
 #EXTINF:-1,TNT Series

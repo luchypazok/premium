@@ -27,7 +27,7 @@ http://190.94.186.158:9981/play/a03l
 http://45.181.121.57:2909/play/010
 #EXTINF:-1,Disney Junior
 http://200.116.199.180:8000/play/a04t
-#EXTINF:-1,CARTOON NETWORK
+#EXTINF:-1,Cartoon Network
 http://177.128.113.8:98/play/a08x
 #EXTINF:-1,Adult Swim
 http://177.128.113.8:5568/play/a088
@@ -36,7 +36,7 @@ http://177.128.113.8:2320/play/a09z
 #EXTINF:-1,Cartoonito
 http://167.250.207.79:8123/play/a050
 #EXTINF:-1,Toonizaki
-https://live.autistici.org/hls/toonizaki_mid.m3u8
+https://live.admefy.com/live/default/definite_gray_4cd9d.m3u8
 #EXTINF:-1,BD Network
 https://cablemor.andremor.dev/live/bdnetwork/index.m3u8
 #EXTINF:-1,Dreamworks

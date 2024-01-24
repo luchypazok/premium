@@ -18,11 +18,10 @@ http://209.45.101.38:8000/play/a0c7
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-#EXTINF:-1,KZO
 
 
 #EXTINF:-1,Paka Paka
-http://190.94.186.158:9981/play/a03l
+http://181.78.27.128:8000/play/a04x/index.m3u8
 #EXTINF:-1,Disney Channel
 http://45.181.121.57:2909/play/010
 #EXTINF:-1,Disney Junior

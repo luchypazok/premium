@@ -3,7 +3,7 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 #EXTINF:-1, Music TOP
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 #EXTINF:-1,America TV
-http://190.94.186.158:9981/play/a030
+http://45.5.151.151:8000/play/a0c7/index.m3u8
 #EXTINF:-1,C5N
 http://45.5.151.151:8000/play/a018/index.m3u8
 #EXTINF:-1,TVP
@@ -19,7 +19,7 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 #EXTINF:-1,KZO
-http://190.94.186.158:9981/play/a037
+
 
 #EXTINF:-1,Paka Paka
 http://190.94.186.158:9981/play/a03l
@@ -42,7 +42,7 @@ https://live.admefy.com/live/default/definite_gray_4cd9d.m3u8
 #EXTINF:-1,BD Network
 https://cablemor.andremor.dev/live/bdnetwork/index.m3u8
 #EXTINF:-1,Dreamworks
-http://187.102.208.104:50001/play/a03x/index.m3u8
+
 #EXTINF:-1,Nickelodeon HD
 http://45.181.121.57:2909/play/014
 #EXTINF:-1,Discovery Kids
@@ -76,13 +76,13 @@ http://190.116.90.43:8000/play/a00w
 #EXTINF:-1,HBO Mundi
 http://45.238.21.84:8000/play/a0ei
 #EXTINF:-1,Universal Premiere
-http://200.63.95.6:8000/play/a00c
+
 #EXTINF:-1,Universal Cinema
-http://200.63.95.6:8000/play/a00d
+
 #EXTINF:-1,Universal Comedy
 http://181.78.105.146:6060/play/a03t
 #EXTINF:-1,Universal Crime
-http://190.61.91.81:5000/play/a06q
+
 #EXTINF:-1,Universal Reality
 http://200.125.170.120:8000/play/a04q
 #EXTINF:-1,Sony Movies
@@ -114,7 +114,7 @@ http://138.118.105.190:8000/play/a057/index.m3u8
 #EXTINF:-1,Studio Universal
 http://200.59.188.3:8000/play/a06r
 #EXTINF:-1,TNT Series
-http://200.58.79.74:8000/play/a04q
+
 #EXTINF:-1,AXN
 http://45.232.210.3:8000/play/a06f
 #EXTINF:-1,Discovery
@@ -124,11 +124,11 @@ http://138.219.58.234:8112/play/079
 #EXTINF:-1,Clover Channel
 http://138.186.20.13:23200/play/a04t
 #EXTINF:-1,TC Televisión
-http://45.179.140.242:8000/play/a0j0
+
 #EXTINF:-1,Comedy Central
 http://181.78.105.146:8800/play/a064
 #EXTINF:-1,TNT Novelas
-http://190.61.43.119:45000/play/a06u
+
 #EXTINF:-1,Lifetime
 http://138.219.58.234:8112/play/100
 #EXTINF:-1,Cinecanal
@@ -142,9 +142,7 @@ http://138.219.58.234:8112/play/110
 #EXTINF:-1,SPACE
 http://181.78.8.90:16123/play/a066
 #EXTINF:-1,I.Sat (Será retirado el 29 de Febrero)
-http://45.228.234.172:8000/play/a045/index.m3u8
-#EXTINF:-1,Adult Swim LA
-http://181.78.64.71:16123/play/a065
+
 #EXTINF:-1,Natgeo
 http://181.78.8.90:16123/play/ch30
 #EXTINF:-1,History 
@@ -174,15 +172,11 @@ http://201.168.136.173:8000/play/a0lt/index.m3u8
 #EXTINF:-1,Telehit
 http://200.116.199.180:8000/play/a05w
 #EXTINF:-1,Telehit Musica
-http://190.61.91.81:5000/play/a0bj
+
 #EXTINF:-1,Cartoon Network Japón
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 #EXTINF:-1,NHK World Premium Japan
 http://45.65.112.16:8000/play/a011
-#EXTINF:-1,Animax Japan
-https://jpx.iptvfreemium.com/103197591075002/bs15.m3u8?token=guoziyun&gid=bs15&channel=zhongying
-#EXTINF:-1,Disney Channel Japan
-https://jpx.iptvfreemium.com/103197591085002/bs24.m3u8?token=guoziyun&gid=bs24&channel=zhongying
 
 
 

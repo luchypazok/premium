@@ -41,7 +41,7 @@ https://live.admefy.com/live/default/definite_gray_4cd9d.m3u8
 #EXTINF:-1,BD Network
 https://cablemor.andremor.dev/live/bdnetwork/index.m3u8
 #EXTINF:-1,Dreamworks
-
+http://181.119.66.30:8000/play/82/index.m3u8
 #EXTINF:-1,Nickelodeon HD
 http://45.181.121.57:2909/play/014
 #EXTINF:-1,Discovery Kids
@@ -75,13 +75,13 @@ http://190.116.90.43:8000/play/a00w
 #EXTINF:-1,HBO Mundi
 http://45.238.21.84:8000/play/a0ei
 #EXTINF:-1,Universal Premiere
-
+http://45.160.191.34:8000/play/a07w
 #EXTINF:-1,Universal Cinema
-
+http://200.125.170.120:8000/play/a067
 #EXTINF:-1,Universal Comedy
 http://181.78.105.146:6060/play/a03t
 #EXTINF:-1,Universal Crime
-
+http://181.78.105.146:8800/play/a06a
 #EXTINF:-1,Universal Reality
 http://200.125.170.120:8000/play/a04q
 #EXTINF:-1,Sony Movies
@@ -113,7 +113,7 @@ http://138.118.105.190:8000/play/a057/index.m3u8
 #EXTINF:-1,Studio Universal
 http://200.59.188.3:8000/play/a06r
 #EXTINF:-1,TNT Series
-
+http://177.128.113.8:3128/play/a08l
 #EXTINF:-1,AXN
 http://45.232.210.3:8000/play/a06f
 #EXTINF:-1,Discovery
@@ -123,11 +123,11 @@ http://138.219.58.234:8112/play/079
 #EXTINF:-1,Clover Channel
 http://138.186.20.13:23200/play/a04t
 #EXTINF:-1,TC Televisión
-
+http://177.234.230.226:8010/play/a02g/index.m3u8
 #EXTINF:-1,Comedy Central
 http://181.78.105.146:8800/play/a064
 #EXTINF:-1,TNT Novelas
-
+http://177.128.113.8:70/play/a0as
 #EXTINF:-1,Lifetime
 http://138.219.58.234:8112/play/100
 #EXTINF:-1,Cinecanal
@@ -140,8 +140,6 @@ http://200.59.188.3:8000/play/a01y
 http://138.219.58.234:8112/play/110
 #EXTINF:-1,SPACE
 http://181.78.8.90:16123/play/a066
-#EXTINF:-1,I.Sat (Será retirado el 29 de Febrero)
-
 #EXTINF:-1,Natgeo
 http://181.78.8.90:16123/play/ch30
 #EXTINF:-1,History 
@@ -160,8 +158,6 @@ http://209.45.101.38:8000/play/a0aq
 http://181.78.64.71:16123/play/a08x
 #EXTINF:-1,MTV
 http://38.41.8.1:8000/play/a02u
-#EXTINF:-1,MuchMusic (Disponible hasta el 29 de Febrero)
-http://143.255.35.223:8000/play/a02e
 #EXTINF:-1,MTV 00's
 http://45.238.21.84:8000/play/a06o
 #EXTINF:-1,MTV Hits
@@ -171,7 +167,7 @@ http://201.168.136.173:8000/play/a0lt/index.m3u8
 #EXTINF:-1,Telehit
 http://200.116.199.180:8000/play/a05w
 #EXTINF:-1,Telehit Musica
-
+http://167.250.207.79:8123/play/a058
 #EXTINF:-1,Cartoon Network Japón
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 #EXTINF:-1,NHK World Premium Japan

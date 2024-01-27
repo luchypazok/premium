@@ -35,7 +35,7 @@ http://177.128.113.8:5568/play/a088
 #EXTINF:-1,Tooncast
 http://177.128.113.8:2320/play/a09z
 #EXTINF:-1,Toonizaki
-https://live.autistici.org/hls/toonizaki_src.m3u8
+https://nyc1.angelthump.com/hls/MjAyNC0wMS0yN1QwMjo0NDozOS4zNzRadG9vbml6YWtp_toonizaki/index.m3u8
 #EXTINF:-1,BD Network
 https://cablemor.andremor.dev/live/bdnetwork/index.m3u8
 #EXTINF:-1,Dreamworks

@@ -172,7 +172,8 @@ http://167.250.207.79:8123/play/a058
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 #EXTINF:-1,NHK World Premium Japan
 http://45.65.112.16:8000/play/a011
-
+#EXTINF:-1,Boing Italia
+http://89.117.222.30:8000/play/a02k
 
 
 

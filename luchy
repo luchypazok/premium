@@ -34,7 +34,7 @@ http://177.128.113.8:98/play/a08x
 http://177.128.113.8:5568/play/a088
 #EXTINF:-1,Tooncast
 http://177.128.113.8:2320/play/a09z
-#EXTINF:-1,BD Network
+#EXTINF:-1,Toonizaki / BD Network
 https://cablemor.andremor.dev/live/bdnetwork/index.m3u8
 #EXTINF:-1,Dreamworks
 http://181.119.66.30:8000/play/82/index.m3u8

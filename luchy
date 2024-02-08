@@ -5,7 +5,7 @@ https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 #EXTINF:-1,America TV
 http://45.5.151.151:8000/play/a0c7/index.m3u8
 #EXTINF:-1,C5N
-http://45.5.151.151:8000/play/a018/index.m3u8
+http://209.45.101.38:8000/play/a09y
 #EXTINF:-1,TVP
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
 #EXTINF:-1,Cronica TV
@@ -18,7 +18,8 @@ http://209.45.101.38:8000/play/a0c7
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-
+#EXTINF:-1,Canal 41 Bayres
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 #EXTINF:-1,Paka Paka
 http://181.78.27.128:8000/play/a04x/index.m3u8

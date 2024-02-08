@@ -35,8 +35,6 @@ http://177.128.113.8:98/play/a08x
 http://177.128.113.8:5568/play/a088
 #EXTINF:-1,Tooncast
 http://177.128.113.8:2320/play/a09z
-#EXTINF:-1,BD Network
-https://cablemor.andremor.dev/live/bdnetwork/index.m3u8
 #EXTINF:-1,Dreamworks
 http://181.119.66.30:8000/play/82/index.m3u8
 #EXTINF:-1,Nickelodeon HD
@@ -60,13 +58,13 @@ http://45.181.122.13:8000/play/041
 #EXTINF:-1,HBO 2
 http://45.160.12.253:8000/play/021
 #EXTINF:-1,HBO Plus
-http://177.128.113.8:43/play/a0af
+http://38.41.8.1:8000/play/a05i
 #EXTINF:-1,HBO Family
-http://45.181.122.13:8000/play/043
+http://38.41.8.1:8000/play/a05k
 #EXTINF:-1,HBO Signature
 http://201.222.44.220:4227/play/a050/index.m3u8
 #EXTINF:-1,HBO POP
-http://45.238.21.84:8000/play/a066
+http://38.41.8.1:8000/play/a00d
 #EXTINF:-1,HBO Xtreme
 http://190.116.90.43:8000/play/a00w
 #EXTINF:-1,HBO Mundi

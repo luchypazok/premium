@@ -27,6 +27,8 @@ http://181.78.27.128:8000/play/a04x/index.m3u8
 http://45.181.121.57:2909/play/010
 #EXTINF:-1,Disney Junior
 http://200.116.199.180:8000/play/a04t
+#EXTINF:-1,Disney Channel España
+http://ultra-iptv.xyz:8080/live/a5GbMCANqs/ht7RgpWkaP/4281.ts
 #EXTINF:-1,Cartoonito
 http://167.250.207.79:8123/play/a050
 #EXTINF:-1,Cartoon Network
@@ -35,6 +37,8 @@ http://177.128.113.8:98/play/a08x
 http://177.128.113.8:5568/play/a088
 #EXTINF:-1,Tooncast
 http://177.128.113.8:2320/play/a09z
+#EXTINF:-1,Boing España
+http://ultra-iptv.xyz:8080/live/a5GbMCANqs/ht7RgpWkaP/4276.ts
 #EXTINF:-1,Dreamworks
 http://181.119.66.30:8000/play/82/index.m3u8
 #EXTINF:-1,Nickelodeon HD
@@ -171,7 +175,8 @@ http://45.65.112.16:8000/play/a011
 http://89.117.222.30:8000/play/a02k
 #EXTINF:-1,Disney XD Polonia
 https://cdn-main.lolokoko.tv/DisneyXD.stream/playlist.m3u8
-
+#EXTINF:-1,Disney Channel Francia
+http://ultra-iptv.xyz:8080/live/a5GbMCANqs/ht7RgpWkaP/3939.ts
 
 
 

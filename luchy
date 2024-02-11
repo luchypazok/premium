@@ -177,7 +177,8 @@ http://89.117.222.30:8000/play/a02k
 https://cdn-main.lolokoko.tv/DisneyXD.stream/playlist.m3u8
 #EXTINF:-1,Disney Channel Francia
 http://ultra-iptv.xyz:8080/live/a5GbMCANqs/ht7RgpWkaP/3939.ts
-
+#EXTINF:-1,Disney Channel Portugal
+http://ultra-iptv.xyz:8080/live/a5GbMCANqs/ht7RgpWkaP/4600.ts
 
 
 

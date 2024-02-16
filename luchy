@@ -38,7 +38,7 @@ http://177.128.113.8:5568/play/a088
 #EXTINF:-1,Tooncast
 http://177.128.113.8:2320/play/a09z
 #EXTINF:-1,Boing HD España
-http://ultra-iptv.xyz:8080/live/a5GbMCANqs/ht7RgpWkaP/4276.ts
+http://95780695495321135.ofd0208.xyz:80/play/mi601480/Tt4ktphPw@/321135.ts
 #EXTINF:-1,Disney XD USA
 http://993422325840751028.ofd0208.xyz:80/play/vi1226355/QvANtaKJSpc/751028.ts
 #EXTINF:-1,Dreamworks
@@ -185,8 +185,6 @@ https://cdn-main.lolokoko.tv/DisneyXD.stream/playlist.m3u8
 http://ultra-iptv.xyz:8080/live/a5GbMCANqs/ht7RgpWkaP/3939.ts
 #EXTINF:-1,Disney Channel Portugal
 http://ultra-iptv.xyz:8080/live/a5GbMCANqs/ht7RgpWkaP/4600.ts
-#EXTINF:-1 tvg-id="Boing" tvg-name="ES: BOING SD" tvg-logo="http://fanc.tmsimg.com/assets/s69093_ll_h3_af.png" group-title="ES   MOVISTAR+",ES: BOING SD
-http://95780695495321135.ofd0208.xyz:80/play/mi601480/Tt4ktphPw@/321135.ts
 #EXTINF:-1,Cartoon Network Portugal
 http://137795525409755685.ofd0208.xyz:80/play/vi1226355/QvANtaKJSpc/755685.ts
 #EXTINF:-1,Cartoon Network USA - West

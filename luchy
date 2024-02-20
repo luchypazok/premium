@@ -37,10 +37,6 @@ http://177.128.113.8:98/play/a08x
 http://177.128.113.8:5568/play/a088
 #EXTINF:-1,Tooncast
 http://177.128.113.8:2320/play/a09z
-#EXTINF:-1,Boing HD
-http://ultra-iptv.xyz:8080/live/a5GbMCANqs/ht7RgpWkaP/4276.ts
-#EXTINF:-1,Toonizaki
-https://live.autistici.org/hls/toonizaki_src.m3u8
 #EXTINF:-1,Dreamworks
 http://45.189.148.24:8000/play/a00m/index.m3u8
 #EXTINF:-1,Nickelodeon HD

@@ -10,8 +10,6 @@ http://45.5.151.151:8000/play/a018/index.m3u8
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1,Cine.ar
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-#EXTINF:-1,TV Universidad
-https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 #EXTINF:-1,TVP
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
 #EXTINF:-1,Cronica TV
@@ -42,7 +40,7 @@ http://92240793819321135.0222ofd.xyz:80/play/vi1111341/Vwp66vpfyv@9/321135.ts
 #EXTINF:-1,Cartoonito
 http://204.199.119.6:1012/play/a042
 #EXTINF:-1,Cartoon Network
-http://191.97.58.41:8001/play/a00t
+http://offshore.lat:8080/play/2HdWV116DVWescgOpOKXbTfajbpHkju4ltg_DYYrnFQ
 #EXTINF:-1,Adult Swim México
 http://offshore.lat:8080/play/2HdWV116DVWescgOpOKXbaZ3Cvo-NgfHdwz_8s6WzNk
 #EXTINF:-1,Tooncast

@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1,Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 #EXTINF:-1, Music TOP

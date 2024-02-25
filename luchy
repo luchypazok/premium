@@ -59,8 +59,10 @@ http://45.181.122.13:8000/play/017
 http://191.97.60.193:10000/play/a02g/index.m3u8
 #EXTINF:-1,Pandamax
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
+#EXTINF:-1,Toonizaki Channel
+https://us-east-1-streaming.zappix.live/memfs/77a9a127-b937-47a3-9437-515278888a17.m3u8
 #EXTINF:-1,BD Network
-https://cablemor.andremor.dev/live/bdnetwork/index.m3u8
+no disponible
 #EXTINF:-1,TeenNick
 http://45.190.187.226:58092/play/a027
 #EXTINF:-1,TeenNick USA

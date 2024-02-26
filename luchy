@@ -49,8 +49,6 @@ http://45.232.148.97:8000/play/a0gs/index.m3u8
 http://181.78.8.90:16123/play/a068
 #EXTINF:-1,Toonizaki Channel
 https://us-east-1-streaming.zappix.live/memfs/77a9a127-b937-47a3-9437-515278888a17.m3u8
-#EXTINF:-1,Toonizaki Channel Alterno
-https://live.autistici.org/hls/toonizaki_src.m3u8
 #EXTINF:-1,Dreanworks
 http://181.119.66.30:8000/play/82/index.m3u8
 #EXTINF:-1,Nickelodeon HD
@@ -203,7 +201,8 @@ http://137795525409755685.ofd0208.xyz:80/play/vi1226355/QvANtaKJSpc/755685.ts
 http://993422325840770873.ofd0208.xyz:80/play/vi1226355/QvANtaKJSpc/770873.ts
 #EXTINF:-1,Cartoon Network USA - Pacific
 http://993422325840781652.ofd0208.xyz:80/play/vi1226355/QvANtaKJSpc/781652.ts
-
+#EXTINF:-1,Toonizaki Channel Alterno
+https://rpn3.bozztv.com/ssh101/ssh101/starlordwalkman/playlist.m3u8
 
 
 

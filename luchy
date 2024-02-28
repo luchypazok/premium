@@ -49,12 +49,10 @@ http://45.232.148.97:8000/play/a0gs/index.m3u8
 http://181.78.8.90:16123/play/a068
 #EXTINF:-1,Haruka
 https://stream.kirachan.tech/memfs/77a9a127-b937-47a3-9437-515278888a17.m3u8
-#EXTINF:-1,Dreanworks
+#EXTINF:-1,Dreamworks
 http://181.119.66.30:8000/play/82/index.m3u8
 #EXTINF:-1,Nickelodeon HD
 http://45.181.121.57:2909/play/014
-#EXTINF:-1,Disney XD US
-http://38.96.178.201:80/live/DisneyXD/index.m3u8
 #EXTINF:-1,Discovery Kids
 http://45.181.122.13:8000/play/017
 #EXTINF:-1,Clan
@@ -65,8 +63,6 @@ https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 https://us-east-1-streaming.zappix.live/memfs/718951c1-4090-4aa1-b92b-b4a1a043421b.m3u8
 #EXTINF:-1,TeenNick
 http://45.190.187.226:58092/play/a027
-#EXTINF:-1,TeenNick USA
-http://137795525409751248.ofd0208.xyz:80/play/vi1226355/QvANtaKJSpc/751248.ts
 #EXTINF:-1,Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1,ETC TV

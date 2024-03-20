@@ -48,7 +48,7 @@ http://45.160.12.253:8000/play/009
 #EXTINF:-1,Adult Swim
 http://45.232.148.97:8000/play/a0gs/index.m3u8
 #EXTINF:-1,Tooncast
-http://181.78.8.90:16123/play/a068
+http://45.160.191.34:8000/play/a097
 #EXTINF:-1,Luchy TV
 https://rocketv.netlify.app/hls/live.m3u8
 #EXTINF:-1,Dreamworks

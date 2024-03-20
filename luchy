@@ -190,19 +190,7 @@ http://45.65.112.16:8000/play/a011
 #EXTINF:-1,Boing Italia
 http://89.117.222.30:8000/play/a02k
 #EXTINF:-1,Disney XD Polonia
-https://cdn-main.lolokoko.tv/DisneyXD.stream/playlist.m3u8
-#EXTINF:-1,Disney Channel Francia
-http://ultra-iptv.xyz:8080/live/a5GbMCANqs/ht7RgpWkaP/3939.ts
-#EXTINF:-1,Disney Channel Portugal
-http://ultra-iptv.xyz:8080/live/a5GbMCANqs/ht7RgpWkaP/4600.ts
-#EXTINF:-1,Cartoon Network Portugal
-http://137795525409755685.ofd0208.xyz:80/play/vi1226355/QvANtaKJSpc/755685.ts
-#EXTINF:-1,Cartoon Network USA - West
-http://993422325840770873.ofd0208.xyz:80/play/vi1226355/QvANtaKJSpc/770873.ts
-#EXTINF:-1,Cartoon Network USA - Pacific
-http://993422325840781652.ofd0208.xyz:80/play/vi1226355/QvANtaKJSpc/781652.ts
-#EXTINF:-1,Haruka Alterno
-https://rpn3.bozztv.com/ssh101/ssh101/starlordwalkman/playlist.m3u8
+http://185.236.229.62:9981/play/a07c
 
 
 

@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1,El Destape
+http://190.7.19.197:8098/play/a0h2/index.m3u8
 #EXTINF:-1,Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 #EXTINF:-1, Music TOP
@@ -26,6 +28,8 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 #EXTINF:-1,Canal 41 Bayres
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+#EXTINF:-1,Canal 26
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1710920211/ei/sz36ZaP7LtC36dsPpo2-gAw/ip/92.205.15.128/id/RnTmtVFTSf0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51123454/txs/51123452%2C51123453%2C51123454%2C51123455%2C51123456%2C51123457/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4TB76ztEc2R5jH4Lm7MuvvWQzo7lggXl3vcyP6UO1o/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgXR4AxjEKKqra0QaFZ0R2YJmXI8ibw11rvBilf5BMUUQCIQDkAVAq9Ph8XTYwN836arXWQr_JlzekXNE8_Yaxe2N6AQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1,Paka Paka
 http://181.78.27.128:8000/play/a04x/index.m3u8

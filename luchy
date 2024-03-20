@@ -69,6 +69,8 @@ https://us-east-1-streaming.zappix.live/memfs/718951c1-4090-4aa1-b92b-b4a1a04342
 http://45.190.187.226:58092/play/a027
 #EXTINF:-1,Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1,Magic Club
+bit.ly/3Pv1bXX
 #EXTINF:-1,ETC TV
 http://45.238.20.82:8000/play/a1af
 #EXTINF:-1,BitMe

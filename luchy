@@ -41,8 +41,6 @@ http://200.116.199.180:8000/play/a04t
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
 #EXTINF:-1,Boing España SD
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.m3u8
-#EXTINF:-1,Boing España HD
-https://directos.mitele.es/orilinear23/live/linear23/playlist/playlist.isml/ctv.m3u8?t=1&hdnts=st=1710385470~exp=1710385650~acl=/*~hmac=465366134c0888ec010b200b3ce786df540cdc27ecbb2773180c7683fe321405
 #EXTINF:-1,Cartoonito
 http://204.199.119.6:1012/play/a042
 #EXTINF:-1,Cartoon Network
@@ -51,7 +49,7 @@ http://45.160.12.253:8000/play/009
 http://45.232.148.97:8000/play/a0gs/index.m3u8
 #EXTINF:-1,Tooncast
 http://181.78.8.90:16123/play/a068
-#EXTINF:-1,Magic Club
+#EXTINF:-1,Luchy TV
 https://rocketv.netlify.app/hls/live.m3u8
 #EXTINF:-1,Dreamworks
 http://181.119.66.30:8000/play/82/index.m3u8

@@ -67,8 +67,6 @@ https://us-east-1-streaming.zappix.live/memfs/718951c1-4090-4aa1-b92b-b4a1a04342
 http://45.190.187.226:58092/play/a027
 #EXTINF:-1,Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1,Magic Club
-bit.ly/3Pv1bXX
 #EXTINF:-1,ETC TV
 http://45.238.20.82:8000/play/a1af
 #EXTINF:-1,BitMe
@@ -86,7 +84,7 @@ http://201.222.44.220:4227/play/a050/index.m3u8
 #EXTINF:-1,HBO POP
 http://38.41.8.1:8000/play/a00d
 #EXTINF:-1,HBO Xtreme
-http://190.116.90.43:8000/play/a00w
+http://192.141.99.3:8000/play/a039
 #EXTINF:-1,HBO Mundi
 http://201.168.136.173:8000/play/a0jj/index.m3u8
 #EXTINF:-1,Universal Premiere
@@ -94,47 +92,53 @@ http://45.160.191.34:8000/play/a07w
 #EXTINF:-1,Universal Cinema
 http://200.125.170.120:8000/play/a067
 #EXTINF:-1,Universal Comedy
-http://181.78.105.146:6060/play/a03t
+http://200.59.188.3:8000/play/a06v
 #EXTINF:-1,Universal Crime
 http://181.78.105.146:8800/play/a06a
 #EXTINF:-1,Universal Reality
 http://200.125.170.120:8000/play/a04q
 #EXTINF:-1,Sony Movies
-http://179.1.48.62:4000/play/a01a/index.m3u8
+http://181.78.105.146:8800/play/a04w
+#EXTINF:-1,ESPN 6
+http://38.41.8.1:8000/play/a082
+#EXTINF:-1,ESPN 7
+http://38.41.8.1:8000/play/a01d
 #EXTINF:-1,ESPN Premium
-http://45.5.151.151:8000/play/a0fe/index.m3u8
+http://38.41.8.1:8000/play/a02z
 #EXTINF:-1,Ciudad Magazine
-http://45.5.151.151:8000/play/a020/index.m3u8
+http://190.7.19.197:8098/play/a0fv/index.m3u8
 #EXTINF:-1,AMC
-http://177.128.113.8:97/play/a08u
+http://38.41.8.1:8000/play/a01s
 #EXTINF:-1,El Gourmet
-http://177.128.113.8/play/a089
+http://38.41.8.1:8000/play/a012
 #EXTINF:-1,STAR Channel
 http://200.59.188.3:8000/play/a02v
 #EXTINF:-1,Universal
-http://177.128.113.8/play/a08g
+http://38.41.8.1:8000/play/a04r
 #EXTINF:-1,USA
 http://181.78.27.128:8000/play/a01z/index.m3u8
 #EXTINF:-1,Sony Channel
-http://187.102.208.108:50001/play/a002/index.m3u8
+http://170.82.37.21:8000/play/a02w/index.m3u8
 #EXTINF:-1,Warner Channel
 http://38.41.8.1:8000/play/a07n
 #EXTINF:-1,Europa Europa
-http://181.78.1.158:8000/play/a03a/index.m3u8
+http://190.7.19.197:8098/play/a0ho/index.m3u8
 #EXTINF:-1,Cinemax
 http://138.219.58.234:8112/play/112
 #EXTINF:-1,Cine Latino
-http://138.118.105.190:8000/play/a057/index.m3u8
+http://45.5.117.182:8000/play/a0j5/index.m3u8
 #EXTINF:-1,Studio Universal
 http://200.59.188.3:8000/play/a06r
 #EXTINF:-1,TNT Series
-http://177.128.113.8:3128/play/a08l
+http://45.238.20.87:8000/play/a19f
 #EXTINF:-1,AXN
-http://45.232.210.3:8000/play/a06f
+http://38.41.8.1:8000/play/a009
 #EXTINF:-1,Discovery
-http://38.41.8.1:8000/play/a02y
+http://45.160.12.253:8000/play/024
+#EXTINF:-1,Discovery Home and Health
+http://38.41.8.1:8000/play/a017
 #EXTINF:-1,Discovery ID
-http://138.219.58.234:8112/play/079
+http://38.41.8.1:8000/play/a071
 #EXTINF:-1,Clover Channel
 http://138.186.20.13:23200/play/a04t
 #EXTINF:-1,TC Televisión
@@ -142,39 +146,33 @@ http://177.234.230.226:8010/play/a02g/index.m3u8
 #EXTINF:-1,Comedy Central
 http://181.78.105.146:8800/play/a064
 #EXTINF:-1,TNT Novelas
-http://177.128.113.8:70/play/a0as
+http://181.78.78.66:8000/play/a01d
 #EXTINF:-1,Lifetime
-http://138.219.58.234:8112/play/100
+http://181.78.78.66:8000/play/a01d
 #EXTINF:-1,Cinecanal
-http://209.45.81.84:8000/play/a00o
+http://181.78.78.66:8000/play/a010
 #EXTINF:-1,TNT
-http://38.41.8.1:8000/play/a04z
-#EXTINF:-1,AMC
-http://200.59.188.3:8000/play/a01y
+http://38.41.8.1:8000/play/a00s
 #EXTINF:-1,TCM
 http://138.219.58.234:8112/play/110
 #EXTINF:-1,SPACE
-http://181.78.8.90:16123/play/a066
+http://38.41.8.1:8000/play/a00a
 #EXTINF:-1,Natgeo
-http://181.78.8.90:16123/play/ch30
+http://45.238.20.82:8000/play/a190
 #EXTINF:-1,History 
 http://38.41.8.1:8000/play/a04p
-#EXTINF:-1,Discovery Home and Health
-http://191.97.58.41:8001/play/a018
 #EXTINF:-1,Animal Planet
-http://177.128.113.8:2375/play/a094
-#EXTINF:-1,El Gourmet
-http://200.59.188.3:8000/play/a01a
+http://38.41.8.1:8000/play/a07m
 #EXTINF:-1,TLC
-http://181.78.8.90:16123/play/ch26
+http://38.41.8.1:8000/play/a07y
 #EXTINF:-1,Quiero Musica
-http://209.45.101.38:8000/play/a0aq
-#EXTINF:-1,HTV (Disponible hasta el 29 de Febrero)
+http://38.41.8.1:8000/play/a07y
+#EXTINF:-1,HTV
 http://181.78.64.71:16123/play/a08x
 #EXTINF:-1,MTV
 http://38.41.8.1:8000/play/a02u
 #EXTINF:-1,MTV 00's
-http://45.238.21.84:8000/play/a06o
+http://38.7.223.20:8000/play/a02g
 #EXTINF:-1,MTV Hits
 http://181.78.105.146:8800/play/a047
 #EXTINF:-1,NickMusic
@@ -182,11 +180,9 @@ http://201.168.136.173:8000/play/a0lt/index.m3u8
 #EXTINF:-1,Telehit
 http://200.116.199.180:8000/play/a05w
 #EXTINF:-1,Telehit Musica
-http://167.250.207.79:8123/play/a058
+http://24.152.53.3:8090/play/a01c/index.m3u8
 #EXTINF:-1,Cartoon Network Japón
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
-#EXTINF:-1,NHK World Premium Japan
-http://45.65.112.16:8000/play/a011
 #EXTINF:-1,Boing Italia
 http://89.117.222.30:8000/play/a02k
 #EXTINF:-1,Disney XD Polonia

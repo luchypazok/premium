@@ -9,7 +9,7 @@ https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 #EXTINF:-1,America TV
 http://190.94.186.158:9981/play/a030
 #EXTINF:-1,C5N
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1710960427/ei/y9r6ZeyJGPWAi9oPqZ2r2A4/ip/92.205.15.128/id/Hy4UCfsE6Yk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7RuwxGjnJ0sJNhwAbByud32oI-naUVk9jYYdXw0fPU/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALeycL24QhQsFMKuPxN4MTyJGtgTDQn8QycVAYEcoiGgAiAPMCG1x-mW7mJzaSW4uJoc60BAPwjujT9sn87G0mesdA%3D%3D/file/index.m3u8
+http://45.5.151.151:8000/play/a018/index.m3u8
 #EXTINF:-1,TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1,Cine.ar
@@ -26,6 +26,8 @@ http://200.115.120.1:8000/play/ca063/index.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+#EXTINF:-1,KZO
+http://190.94.186.158:9981/play/a037/index.m3u8
 #EXTINF:-1,Canal 41 Bayres
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1,Canal 26
@@ -49,8 +51,12 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manif
 http://45.160.12.253:8000/play/009
 #EXTINF:-1,Tooncast
 http://45.160.191.34:8000/play/a097
+#EXTINF:-1,Tooncast HD
+http://stream.flynetwifi.com:1935/live/mobile-002/playlist.m3u8
 #EXTINF:-1,Luchy TV
 https://rocketv.netlify.app/hls/live.m3u8
+#EXTINF:-1,Magic Kids
+https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1,Dreamworks
 http://200.37.186.109:8000/play/a047/index.m3u8
 #EXTINF:-1,Nickelodeon HD
@@ -73,6 +79,10 @@ http://45.238.20.82:8000/play/a1af
 http://38.44.109.41:8888/play/a00f
 #EXTINF:-1,Adult Swim
 http://45.232.148.97:8000/play/a0gs/index.m3u8
+#EXTINF:-1,Golden Plus
+http://38.7.223.20:8000/play/a01j
+#EXTINF:-1,Golden Edge
+http://38.44.109.41:8888/play/a002
 #EXTINF:-1,HBO
 http://38.41.8.1:8000/play/a01u
 #EXTINF:-1,HBO 2
@@ -101,6 +111,8 @@ http://181.78.105.146:8800/play/a06a
 http://200.125.170.120:8000/play/a04q
 #EXTINF:-1,Sony Movies
 http://181.78.105.146:8800/play/a04w
+#EXTINF:-1,A&E
+http://45.172.16.186:8000/play/a08j
 #EXTINF:-1,ESPN 6
 http://38.41.8.1:8000/play/a082
 #EXTINF:-1,ESPN 7
@@ -109,6 +121,8 @@ http://38.41.8.1:8000/play/a01d
 http://38.41.8.1:8000/play/a02z
 #EXTINF:-1,Ciudad Magazine
 http://190.7.19.197:8098/play/a0fv/index.m3u8
+#EXTINF:-1,El canal de la ciudad
+http://45.5.151.151:8000/play/a0lf/index.m3u8
 #EXTINF:-1,AMC
 http://38.41.8.1:8000/play/a01s
 #EXTINF:-1,El Gourmet
@@ -119,6 +133,8 @@ http://200.59.188.3:8000/play/a02v
 http://38.41.8.1:8000/play/a01x
 #EXTINF:-1,Universal
 http://38.41.8.1:8000/play/a04r
+#EXTINF:-1,Warner Channel
+http://190.94.186.158:9981/play/a037/index.m3u8
 #EXTINF:-1,USA
 http://181.78.27.128:8000/play/a01z/index.m3u8
 #EXTINF:-1,Sony Channel
@@ -165,6 +181,8 @@ http://38.41.8.1:8000/play/a00a
 http://45.238.20.82:8000/play/a190
 #EXTINF:-1,History 
 http://38.41.8.1:8000/play/a04p
+#EXTINF:-1,History 2
+http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
 #EXTINF:-1,Animal Planet
 http://38.41.8.1:8000/play/a07m
 #EXTINF:-1,TLC

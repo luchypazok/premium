@@ -33,20 +33,20 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1710960503/ei/F
 
 #EXTINF:-1,Paka Paka
 http://181.78.27.128:8000/play/a04x/index.m3u8
-#EXTINF:-1,Disney Channel
-http://45.181.121.57:2909/play/010
+#EXTINF:-1,BabyTV
+http://45.238.20.84:8000/play/a19y
+#EXTINF:-1,Cartoonito
+http://204.199.119.6:1012/play/a042
 #EXTINF:-1,Disney Junior
 http://200.116.199.180:8000/play/a04t
+#EXTINF:-1,Disney Channel
+http://45.181.121.57:2909/play/010
 #EXTINF:-1,Disney Channel España
 https://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
 #EXTINF:-1,Boing España SD
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.m3u8
-#EXTINF:-1,Cartoonito
-http://204.199.119.6:1012/play/a042
 #EXTINF:-1,Cartoon Network
 http://45.160.12.253:8000/play/009
-#EXTINF:-1,Adult Swim
-http://45.232.148.97:8000/play/a0gs/index.m3u8
 #EXTINF:-1,Tooncast
 http://45.160.191.34:8000/play/a097
 #EXTINF:-1,Luchy TV
@@ -71,6 +71,8 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 http://45.238.20.82:8000/play/a1af
 #EXTINF:-1,BitMe
 http://38.44.109.41:8888/play/a00f
+#EXTINF:-1,Adult Swim
+http://45.232.148.97:8000/play/a0gs/index.m3u8
 #EXTINF:-1,HBO
 http://38.41.8.1:8000/play/a01u
 #EXTINF:-1,HBO 2
@@ -113,6 +115,8 @@ http://38.41.8.1:8000/play/a01s
 http://38.41.8.1:8000/play/a012
 #EXTINF:-1,STAR Channel
 http://200.59.188.3:8000/play/a02v
+#EXTINF:-1,Paramount Network
+http://38.41.8.1:8000/play/a01x
 #EXTINF:-1,Universal
 http://38.41.8.1:8000/play/a04r
 #EXTINF:-1,USA

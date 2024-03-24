@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,El Destape
-http://190.7.19.197:8098/play/a0h2/index.m3u8
+
 #EXTINF:-1,Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 #EXTINF:-1, Music TOP
@@ -54,7 +54,7 @@ http://45.160.191.34:8000/play/a097
 #EXTINF:-1,Tooncast HD
 http://stream.flynetwifi.com:1935/live/mobile-002/playlist.m3u8
 #EXTINF:-1,Luchy TV
-https://rocketv.netlify.app/hls/live.m3u8
+https://stream.kirachan.tech/memfs/367bcec8-11bb-4255-91b9-f9e1b3c5c426.m3u8
 #EXTINF:-1,Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1,Dreamworks

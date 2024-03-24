@@ -51,7 +51,7 @@ http://45.160.12.253:8000/play/009
 http://45.160.191.34:8000/play/a097
 #EXTINF:-1,Tooncast HD
 http://stream.flynetwifi.com:1935/live/mobile-002/playlist.m3u8
-#EXTINF:-1,Luchy TV
+#EXTINF:-1,Galaxy Network
 https://stream.kirachan.tech/memfs/367bcec8-11bb-4255-91b9-f9e1b3c5c426.m3u8
 #EXTINF:-1,Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8

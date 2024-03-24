@@ -22,6 +22,8 @@ http://190.94.186.158:9981/play/a034
 http://200.115.120.1:8000/play/ca063/index.m3u8
 #EXTINF:-1,Canal 13
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,A24
+http://45.5.151.151:8000/play/a0dy/index.m3u8
 #EXTINF:-1,Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 #EXTINF:-1,KZO
@@ -29,7 +31,9 @@ http://190.94.186.158:9981/play/a037/index.m3u8
 #EXTINF:-1,Canal 41 Bayres
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1,Canal 26
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1710960503/ei/Ftv6ZfOiPKOAi9oPm4GUQA/ip/92.205.15.128/id/RnTmtVFTSf0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51118561/txs/51118561%2C51118562%2C51118563%2C51118564%2C51118565%2C51118566%2C51118567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fx4ZfwpYrgkk3pAsBQeW0_qOqkpeY4wGQD1AjfifGYo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51141541/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAM2IKAPYaIZlyp--rUmDdcS2DYWhQkmrCOJeI1u6J3sJAiBB3GcRoa3Eg-6qElmUS3CVRfCPkWU0KOqcrgSBSP3wDg%3D%3D/file/index.m3u8
+https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
+#EXTINF:-1,Encuentro
+https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 
 #EXTINF:-1,Paka Paka
 http://181.78.27.128:8000/play/a04x/index.m3u8

@@ -90,7 +90,7 @@ http://190.94.186.135:9981/play/a03q/index.m3u8
 #EXTINF:-1,HBO
 http://38.41.8.1:8000/play/a01u
 #EXTINF:-1,HBO 2
-http://38.41.8.1:8000/play/a05h
+http://192.141.99.3:8000/play/a05l
 #EXTINF:-1,HBO Plus
 http://38.41.8.1:8000/play/a05i
 #EXTINF:-1,HBO Family

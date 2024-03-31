@@ -70,7 +70,7 @@ http://191.97.60.193:10000/play/a02g/index.m3u8
 #EXTINF:-1,Pandamax
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1,BD Network
-https://us-east-1-streaming.zappix.live/memfs/718951c1-4090-4aa1-b92b-b4a1a043421b.m3u8
+https://stream.kirachan.tech/memfs/718951c1-4090-4aa1-b92b-b4a1a043421b.m3u8 
 #EXTINF:-1,TeenNick
 http://45.190.187.226:58092/play/a027
 #EXTINF:-1,Locomotion

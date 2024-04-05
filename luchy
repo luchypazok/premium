@@ -55,8 +55,6 @@ http://200.60.4.236:8000/play/a00e/index.m3u8
 http://45.181.122.13:8000/play/016
 #EXTINF:-1,Tooncast HD
 http://stream.flynetwifi.com:1935/live/mobile-002/playlist.m3u8
-#EXTINF:-1,Night Time
-https://stream.kirachan.tech/memfs/367bcec8-11bb-4255-91b9-f9e1b3c5c426.m3u8
 #EXTINF:-1,Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1,Dreamworks
@@ -79,6 +77,8 @@ http://45.238.20.82:8000/play/a1af
 http://24.152.53.3:8090/play/a013/index.m3u8
 #EXTINF:-1,Adult Swim
 http://45.232.148.97:8000/play/a0gs/index.m3u8
+#EXTINF:-1,Night Time
+https://stream.kirachan.tech/memfs/367bcec8-11bb-4255-91b9-f9e1b3c5c426.m3u8
 #EXTINF:-1,Golden Plus
 http://38.7.223.20:8000/play/a01j
 #EXTINF:-1,Golden Edge

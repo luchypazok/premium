@@ -55,7 +55,7 @@ http://200.60.4.236:8000/play/a00e/index.m3u8
 http://45.181.122.13:8000/play/016
 #EXTINF:-1,Tooncast HD
 http://stream.flynetwifi.com:1935/live/mobile-002/playlist.m3u8
-#EXTINF:-1,Zona 31
+#EXTINF:-1,Night Time
 https://stream.kirachan.tech/memfs/367bcec8-11bb-4255-91b9-f9e1b3c5c426.m3u8
 #EXTINF:-1,Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8

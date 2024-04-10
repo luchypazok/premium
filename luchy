@@ -76,7 +76,7 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1,ETC TV
 http://45.238.20.82:8000/play/a1af
 #EXTINF:-1,BitMe
-http://24.152.53.3:8090/play/a013/index.m3u8
+http://38.252.158.1:8000/play/a005
 #EXTINF:-1,Adult Swim
 http://45.232.148.97:8000/play/a0gs/index.m3u8
 #EXTINF:-1,Golden Plus

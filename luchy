@@ -59,6 +59,8 @@ http://stream.flynetwifi.com:1935/live/mobile-002/playlist.m3u8
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1,Toonizaki
 https://stitcher.buzzster.co.uk/toonizaki/index.m3u8
+#EXTINF:-1,Toonizaki SD
+https://stream.kirachan.tech/memfs/367bcec8-11bb-4255-91b9-f9e1b3c5c426.m3u8
 #EXTINF:-1,Dreamworks
 http://200.37.186.109:8000/play/a047/index.m3u8
 #EXTINF:-1,Nickelodeon HD

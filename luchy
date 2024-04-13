@@ -49,6 +49,8 @@ http://38.137.194.42:8000/play/a0la
 http://45.181.122.13:8000/play/015
 #EXTINF:-1,Boing
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
+#EXTINF:-1,Disney Channel ESP
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
 #EXTINF:-1,Tooncast
 http://45.181.122.13:8000/play/016
 #EXTINF:-1,Magic Kids

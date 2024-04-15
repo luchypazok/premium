@@ -44,24 +44,22 @@ http://45.4.3.75:8005/play/a076
 http://192.141.99.3:8000/play/a017
 #EXTINF:-1,Disney Junior
 http://38.137.194.42:8000/play/a0la
+#EXTINF:-1,Toonizaki SD
+https://stream.kirachan.tech/memfs/367bcec8-11bb-4255-91b9-f9e1b3c5c426.m3u8
 #EXTINF:-1,Cartoon Network
 http://45.181.122.13:8000/play/015
 #EXTINF:-1,Boing
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
-#EXTINF:-1,Disney Channel ESP
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://45.170.42.100:8000/play/a01x
 #EXTINF:-1,Tooncast
 http://45.181.122.13:8000/play/016
 #EXTINF:-1,Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1,Toonizaki
 https://stitcher.buzzster.co.uk/live/toonizaki.m3u8
-#EXTINF:-1,Toonizaki SD
-https://stream.kirachan.tech/memfs/367bcec8-11bb-4255-91b9-f9e1b3c5c426.m3u8
 #EXTINF:-1,Dreamworks
 http://200.37.186.109:8000/play/a047/index.m3u8
-#EXTINF:-1,Nickelodeon HD
-http://45.170.42.100:8000/play/a01x
 #EXTINF:-1,Discovery Kids
 http://45.181.122.13:8000/play/017
 #EXTINF:-1,Pandamax
@@ -206,7 +204,8 @@ http://201.168.136.173:8000/play/a0lt/index.m3u8
 http://200.116.199.180:8000/play/a05w
 #EXTINF:-1,Telehit Musica
 http://24.152.53.3:8090/play/a01c/index.m3u8
-
+#EXTINF:-1,Disney Channel ESP
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
 
 
 

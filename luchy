@@ -45,7 +45,7 @@ http://192.141.99.3:8000/play/a017
 #EXTINF:-1,Disney Junior
 http://38.137.194.42:8000/play/a0la
 #EXTINF:-1,Toonizaki
-https://stitcher.buzzster.co.uk/live/toonizaki.m3u8
+https://stream.kirachan.tech/memfs/367bcec8-11bb-4255-91b9-f9e1b3c5c426.m3u8
 #EXTINF:-1,Cartoon Network
 http://45.181.122.13:8000/play/015
 #EXTINF:-1,Boing
@@ -65,7 +65,7 @@ http://45.181.122.13:8000/play/017
 #EXTINF:-1,Pandamax
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1,Toonizaki Opción 2
-https://stream.kirachan.tech/memfs/367bcec8-11bb-4255-91b9-f9e1b3c5c426.m3u8
+https://stitcher.buzzster.co.uk/live/toonizaki.m3u8
 #EXTINF:-1,BD Network
 https://stream.kirachan.tech/memfs/718951c1-4090-4aa1-b92b-b4a1a043421b.m3u8 
 #EXTINF:-1,Locomotion

@@ -1,13 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1,Telemax
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
-#EXTINF:-1, Music TOP
-https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
-#EXTINF:-1,America TV
-http://190.94.186.158:9981/play/a030
+
 #EXTINF:-1,C5N
 http://45.5.151.151:8000/play/a018/index.m3u8
+#EXTINF:-1,America TV
+http://190.94.186.158:9981/play/a030
 #EXTINF:-1,TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1,Cine.ar
@@ -34,6 +31,8 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 #EXTINF:-1,Encuentro
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
+#EXTINF:-1, Music TOP
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 
 #EXTINF:-1,Paka Paka
 http://190.94.186.135:9981/play/a03l/index.m3u8

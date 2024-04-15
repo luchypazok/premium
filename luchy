@@ -52,6 +52,8 @@ http://45.181.122.13:8000/play/015
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
 #EXTINF:-1,Nickelodeon HD
 http://45.170.42.100:8000/play/a01x
+#EXTINF:-1,TeenNick
+http://45.190.187.226:58092/play/a027
 #EXTINF:-1,Tooncast
 http://45.181.122.13:8000/play/016
 #EXTINF:-1,Magic Kids
@@ -66,8 +68,6 @@ http://45.181.122.13:8000/play/017
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1,BD Network
 https://stream.kirachan.tech/memfs/718951c1-4090-4aa1-b92b-b4a1a043421b.m3u8 
-#EXTINF:-1,TeenNick
-http://45.190.187.226:58092/play/a027
 #EXTINF:-1,Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1,Max Anime

@@ -85,7 +85,7 @@ http://38.44.109.41:8888/play/a002
 #EXTINF:-1,Volver
 http://190.94.186.135:9981/play/a03q/index.m3u8
 #EXTINF:-1,HBO
-http://45.4.3.75:8005/play/a089
+http://38.41.8.1:8000/play/a01u
 #EXTINF:-1,HBO 2
 http://177.93.46.163:8000/play/a00m
 #EXTINF:-1,HBO Plus
@@ -129,7 +129,7 @@ http://38.41.8.1:8000/play/a01s
 #EXTINF:-1,El Gourmet
 http://38.41.8.1:8000/play/a012
 #EXTINF:-1,STAR Channel
-http://200.59.188.3:8000/play/a02v
+http://45.4.3.75:7700/play/a02s
 #EXTINF:-1,Paramount Network
 http://38.41.8.1:8000/play/a01x
 #EXTINF:-1,Universal

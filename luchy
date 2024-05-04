@@ -17,9 +17,7 @@ http://181.78.27.128:8000/play/a04k/index.m3u8
 #EXTINF:-1,Canal 9
 http://190.94.186.158:9981/play/a034
 #EXTINF:-1,Telefe Argentina
-http://45.5.151.151:8000/play/a0kf/index.m3u8
-#EXTINF:-1,Telefe Internacional
-http://200.115.120.1:8000/play/ca063/index.m3u8
+http://190.7.19.205:8088/play/a0n0/index.m3u8
 #EXTINF:-1,Canal 13
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,A24
@@ -79,6 +77,8 @@ http://45.238.20.82:8000/play/a1af
 http://38.252.158.1:8000/play/a005
 #EXTINF:-1,Adult Swim
 http://38.137.194.42:8000/play/a0o8
+#EXTINF:-1,Telefe Internacional
+http://200.115.120.1:8000/play/ca063/index.m3u8
 #EXTINF:-1,Golden Plus
 http://38.7.223.20:8000/play/a01j
 #EXTINF:-1,Golden Edge

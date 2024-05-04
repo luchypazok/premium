@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,El Destape TV
-http://200.85.51.139:8000/play/a013/index.m3u8
+http://38.43.150.153:8000/play/a01u/index.m3u8
 #EXTINF:-1,C5N
 http://181.191.140.241:8000/play/a0ff/index.m3u8
 #EXTINF:-1,America TV
@@ -90,7 +90,7 @@ http://38.41.8.1:8000/play/a01u
 #EXTINF:-1,HBO 2
 http://177.93.46.163:8000/play/a00m
 #EXTINF:-1,HBO Plus
-http://38.41.8.1:8000/play/a05i
+http://192.141.99.3:8000/play/a038
 #EXTINF:-1,HBO Family
 http://38.41.8.1:8000/play/a05k
 #EXTINF:-1,HBO Signature

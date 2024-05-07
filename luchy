@@ -45,7 +45,9 @@ http://45.4.3.75:8005/play/a076
 http://177.93.46.163:8000/play/a00y
 #EXTINF:-1,Disney Junior
 http://38.137.194.42:8000/play/a0la
-#EXTINF:-1,Toonizaki
+#EXTINF:-1,Toonizaki 
+https://live.autistici.org/hls/toonizaki_src.m3u8
+#EXTINF:-1,Toonizaki Linky
 https://stream.kirachan.tech/memfs/367bcec8-11bb-4255-91b9-f9e1b3c5c426.m3u8
 #EXTINF:-1,Boing
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8

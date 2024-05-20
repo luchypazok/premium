@@ -48,7 +48,7 @@ http://38.137.194.42:8000/play/a0la
 #EXTINF:-1,Boing
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
 #EXTINF:-1,Cartoon Network
-http://192.141.99.3:8000/play/a05k
+http://38.41.8.1:8000/play/a04y
 #EXTINF:-1,Nickelodeon HD
 http://192.141.99.3:8000/play/a009
 #EXTINF:-1,TeenNick
@@ -84,7 +84,7 @@ http://38.44.109.41:8888/play/a002
 #EXTINF:-1,Volver
 http://190.94.186.135:9981/play/a03q/index.m3u8
 #EXTINF:-1,HBO
-http://38.41.8.1:8000/play/a01u
+http://45.4.3.75:8005/play/a089
 #EXTINF:-1,HBO 2
 http://177.93.46.163:8000/play/a00m
 #EXTINF:-1,HBO Plus

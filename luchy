@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1,STAR Channel
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159199
 #EXTINF:-1,C5N
 http://181.191.140.2:8000/play/a0ff/index.m3u8
 #EXTINF:-1,America TV
@@ -124,7 +125,7 @@ http://45.172.16.186:8000/play/a0ph
 #EXTINF:-1,El Gourmet
 http://38.41.8.1:8000/play/a012
 #EXTINF:-1,STAR Channel
-https://1279247418.rsc.cdn77.org/bpk-tv/QSTACHATV/dash/manifest.mpd
+http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159199
 #EXTINF:-1,Paramount Network
 http://38.41.8.1:8000/play/a01x
 #EXTINF:-1,Universal

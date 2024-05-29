@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1,STAR Channel
-http://budtvlight.com:25461/carlospix/Rx5HpkPqgp/159199
+
 #EXTINF:-1,C5N
 http://181.191.140.2:8000/play/a0ff/index.m3u8
 #EXTINF:-1,America TV

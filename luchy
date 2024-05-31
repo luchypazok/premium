@@ -43,6 +43,8 @@ http://177.93.46.163:8000/play/a00y
 http://38.137.194.42:8000/play/a0la
 #EXTINF:-1,Boing
 http://45.153.96.44:8000/play/a00y
+#EXTINF:-1,Boing Op 2
+https://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.m3u8
 #EXTINF:-1,Cartoon Network
 http://45.172.16.186:8000/play/a0rm
 #EXTINF:-1,Nickelodeon

@@ -41,6 +41,8 @@ http://190.60.36.103:8000/play/a07c
 http://177.93.46.163:8000/play/a00y
 #EXTINF:-1,Disney Junior
 http://38.137.194.42:8000/play/a0la
+#EXTINF:-1,Michy Miau
+https://live.autistici.org/hls/michymiau_src.m3u8
 #EXTINF:-1,Boing
 http://45.153.96.44:8000/play/a00y
 #EXTINF:-1,Cartoon Network

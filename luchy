@@ -2,6 +2,8 @@
 
 #EXTINF:-1,C5N
 http://181.191.140.2:8000/play/a0ff/index.m3u8
+#EXTINF:-1,El Destape TV
+http://38.43.150.153:8000/play/a01u/index.m3u8
 #EXTINF:-1,America TV
 http://45.172.16.186:8000/play/a0ol
 #EXTINF:-1,TN

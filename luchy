@@ -43,8 +43,6 @@ http://177.93.46.163:8000/play/a00y
 http://38.137.194.42:8000/play/a0la
 #EXTINF:-1,Boing
 http://45.153.96.44:8000/play/a00y
-#EXTINF:-1,Boing Op 2
-https://nodep002.service.openstream.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.m3u8
 #EXTINF:-1,Cartoon Network
 http://45.172.16.186:8000/play/a0rm
 #EXTINF:-1,Nickelodeon
@@ -72,7 +70,7 @@ http://179.51.169.254:7779/play/a048
 #EXTINF:-1,BitMe
 http://38.252.158.1:8000/play/a005
 #EXTINF:-1,Adult Swim
-http://38.137.194.42:8000/play/a0o8
+http://45.172.16.186:8000/play/a0rx
 #EXTINF:-1,Telefe Internacional
 http://201.139.174.68:8001/play/a01l/index.m3u8
 #EXTINF:-1,Golden Plus

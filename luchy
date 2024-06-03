@@ -92,33 +92,33 @@ http://38.252.157.62:8000/play/29
 #EXTINF:-1,Volver
 http://45.172.16.186:8000/play/a0pj
 #EXTINF:-1,HBO
-http://45.4.3.75:8005/play/a089
+http://38.41.8.1:8000/play/a01u
 #EXTINF:-1,HBO 2
 http://177.93.46.163:8000/play/a00m
 #EXTINF:-1,HBO Plus
 http://177.93.46.163:8000/play/a00n
 #EXTINF:-1,HBO Family
-http://45.4.3.75:8005/play/a09x
+http://38.7.223.20:8000/play/a01g
 #EXTINF:-1,HBO Signature
 http://45.172.16.186:8000/play/a0pu
 #EXTINF:-1,HBO POP
-http://74.91.17.110/play/hbopophd
+http://38.7.223.20:8000/play/a01z
 #EXTINF:-1,HBO Xtreme
 http://38.41.8.1:8000/play/a05j
 #EXTINF:-1,HBO Mundi
-http://201.168.136.173:8000/play/a0jj/index.m3u8
+http://45.181.120.177:8000/play/a0he
 #EXTINF:-1,Universal Premiere
 http://200.59.188.3:8000/play/a06t
 #EXTINF:-1,Universal Cinema
-http://200.125.170.120:8000/play/a067
+http://38.41.8.1:8000/play/a05q
 #EXTINF:-1,Universal Comedy
 http://170.83.242.9:4000/play/a0kq
 #EXTINF:-1,Universal Crime
 http://181.78.105.146:8800/play/a06a
 #EXTINF:-1,Universal Reality
-http://74.91.17.110/play/universalrealityhd
+http://186.179.64.37:8000/play/a03m/index.m3u8
 #EXTINF:-1,Sony Movies
-http://181.78.105.146:8800/play/a04w
+http://177.126.51.9:8001/play/a05n
 #EXTINF:-1,A&E
 http://38.41.8.1:8000/play/a006
 #EXTINF:-1,ESPN 6
@@ -176,7 +176,7 @@ http://38.43.151.206:8000/play/a05y/index.m3u8
 #EXTINF:-1,Lifetime
 http://45.181.122.13:8000/play/056
 #EXTINF:-1,Cinecanal
-http://45.4.3.75:7700/play/a02x
+http://45.181.121.194:8000/play/107
 #EXTINF:-1,TNT
 http://38.41.8.1:8000/play/a00s
 #EXTINF:-1,TCM
@@ -204,7 +204,7 @@ http://38.7.223.20:8000/play/a02g
 #EXTINF:-1,MTV Hits
 http://181.78.105.146:8800/play/a047
 #EXTINF:-1,NickMusic
-http://201.168.136.173:8000/play/a0lt/index.m3u8
+http://181.78.4.250:8098/play/a034/index.m3u8
 #EXTINF:-1,Telehit
 http://38.252.157.62:8000/play/62
 #EXTINF:-1,Radio Disney

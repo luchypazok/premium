@@ -20,7 +20,7 @@ http://181.78.27.128:8000/play/a04k/index.m3u8
 http://45.172.16.186:8000/play/a0on
 #EXTINF:-1,Telefe Argentina
 http://186.148.196.82:8000/play/a016
-#EXTINF:-1,Canal 13
+#EXTINF:-1,eltrece
 https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 #EXTINF:-1,A24
 http://45.5.151.151:8000/play/a0dy/index.m3u8
@@ -30,7 +30,7 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvwFPWkJ3y65rz3hFp3lYBkLyGh
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 #EXTINF:-1,Canal 41 Bayres
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-#EXTINF:-1,GenTV
+#EXTINF:-1,GenTV (CAnal)
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 #EXTINF:-1,NeoTV Digital
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8

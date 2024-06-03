@@ -32,6 +32,8 @@ https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 #EXTINF:-1, Music TOP
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+#EXTINF:-1,Canal 5 México
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
 
 #EXTINF:-1,Paka Paka
 http://181.78.27.128:8000/play/a04x/index.m3u8
@@ -42,7 +44,7 @@ http://190.60.36.103:8000/play/a07c
 #EXTINF:-1,Disney Channel
 http://177.93.46.163:8000/play/a00y
 #EXTINF:-1,Disney Junior
-http://38.137.194.42:8000/play/a0la
+http://190.60.34.170:8000/play/a01d
 #EXTINF:-1,Boing
 http://45.153.96.44:8000/play/a00y
 #EXTINF:-1,Cartoon Network
@@ -178,7 +180,7 @@ http://38.252.157.62:8000/play/52
 #EXTINF:-1,History 
 http://38.41.8.1:8000/play/a04p
 #EXTINF:-1,History 2
-http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
+http://38.7.223.20:8000/play/a01f
 #EXTINF:-1,Animal Planet
 http://38.252.157.62:8000/play/47
 #EXTINF:-1,TLC

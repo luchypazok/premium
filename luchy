@@ -16,7 +16,7 @@ http://190.211.250.102:8000/play/a01n
 http://45.172.16.186:8000/play/a0om
 #EXTINF:-1,Cronica TV
 http://181.78.27.128:8000/play/a04k/index.m3u8
-#EXTINF:-1,Canal 9
+#EXTINF:-1,elnueve
 http://45.172.16.186:8000/play/a0on
 #EXTINF:-1,Telefe Argentina
 http://186.148.196.82:8000/play/a016
@@ -24,6 +24,8 @@ http://186.148.196.82:8000/play/a016
 https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 #EXTINF:-1,A24
 http://45.5.151.151:8000/play/a0dy/index.m3u8
+#EXTINF:-1,IP
+https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvwFPWkJ3y65rz3hFp3lYBkLyGhOvkxZUL3fRyOAzHgk15PT0R4o3HUoQuu2-1-YYThZ1kxYVAMlcA-xR3Wd4uBcLeVBBx4Gam2rfzrDubL-dtadHRuS74shShDlPJb4dCnrvmqVXyDyOmbxiQBmZZ6MjkfPMWEIBbjTKWCFZNzSBXEmd7cuOiXzHh-Ajdq_5sE-ddScYSfZ_E54A_6GG3A4moi69zQn-_UZzfqS6IkIzO9Xt8Bubbn2Vd0VxAaT0pqLletDA6B64BsK-7S9wqUpDIka9f6rBU1AdX2ITYC4pr2gNGl3h8BPxKvtgFpqD1znBgylsFAPXHw6xTPc0E1bWzML6eetf9ad1fx41bNUmnXk_jrHcRJ0wrMtgz6RfWMYLdhrCA3Cg78DkSd8PAfiQ4UHZFKl4MKDhSOTm7TmlOX9VD25vOL920Cpdfltp11fUPTXrWy2ixS3ooaPFO9go9gXqmc74KbjyAGrTaxl0-nCRtDLuWT7QTKRjL0emgh2bM1Xa75uUng5Alz6my79HskVA8xTuuUivTWw9cZf84ksrmbVYqMKNn3fwJ-91cFVjFq_qgZ4Kh5LDgR_YsdE2lO_P19IQFVD44ftP0mdPVMEfqG1RILoQ8N5MBEHTA4AovbGr6BLFoTqS54hsWI0SkY2x1-e918whGVPVcKUlEY73_xC-cvGukWl_8y_Su6yxq6P3VVBQRjxU0CblafhdmmyE9teuTnZZDZX_JIVqWcFfHkGly8pUQDVdkvFunbydmbL9U5ovqlP0R7H2X0qiDbwwY0Q78ZY5pQDdDKN0W687gNJkg9RBNyO8oyGjsCrMH0Ormdj4wo2E6YPMsPNTNM-idevVzZj6MuYzZLC_yORXs1IuU6OetduQ0KlPOh8UBdwQjgZbYa7M46LF_LDZd4BrxBGQ3BN4P-9QNj1FcRvN7Xux5sC7qf5pPC62_-doVNFCCpRgG1JkcrX_CIvxvVQvYAauCNU9--karnkMUkiPxVFcIQk7OYpxH0aDPgdBilUZnw_xfVfUSABKgl1cy1lYXN0LTEw_wc.m3u8
 #EXTINF:-1,Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 #EXTINF:-1,Canal 41 Bayres

@@ -78,7 +78,7 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1,Max Anime
 https://streamyes.alsolnet.com/maxanime/live/playlist.m3u8
 #EXTINF:-1,ETC TV
-http://179.51.169.254:7779/play/a048
+http://38.7.223.20:8000/play/a02s
 #EXTINF:-1,BitMe
 http://38.252.158.1:8000/play/a005
 #EXTINF:-1,Adult Swim

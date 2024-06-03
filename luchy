@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1,Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8#t=0.1
 #EXTINF:-1,C5N
 http://181.191.140.2:8000/play/a0ff/index.m3u8
 #EXTINF:-1,El Destape TV
@@ -34,6 +36,8 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 #EXTINF:-1,Canal 5 México
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
+#EXTINF:-1,Las Estrellas
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1,Paka Paka
 http://181.78.27.128:8000/play/a04x/index.m3u8
@@ -199,7 +203,8 @@ http://181.78.105.146:8800/play/a047
 http://201.168.136.173:8000/play/a0lt/index.m3u8
 #EXTINF:-1,Telehit
 http://38.252.157.62:8000/play/62
-
+#EXTINF:-1,Radio Disney
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.m3u8?dist=web-radiodisney
 
 
 

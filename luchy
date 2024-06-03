@@ -55,8 +55,8 @@ http://190.60.36.103:8000/play/a07c
 http://177.93.46.163:8000/play/a00y
 #EXTINF:-1,Disney Junior
 http://190.60.34.170:8000/play/a01d
-#EXTINF:-1,Galaxy Network
-https://live.autistici.org/hls/galaxynetworkarg_src.m3u8
+#EXTINF:-1,Magic Club
+https://stream.kirachan.tech/memfs/472049bd-1ad0-4bb9-95ea-ee8a0be0950b.m3u8
 #EXTINF:-1,Boing
 http://45.153.96.44:8000/play/a00y
 #EXTINF:-1,Cartoon Network

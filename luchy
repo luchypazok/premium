@@ -30,7 +30,7 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvwFPWkJ3y65rz3hFp3lYBkLyGh
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 #EXTINF:-1,Canal 41 Bayres
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-#EXTINF:-1,GenTV (CAnal)
+#EXTINF:-1,GenTV
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 #EXTINF:-1,NeoTV Digital
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
@@ -55,6 +55,8 @@ http://190.60.36.103:8000/play/a07c
 http://177.93.46.163:8000/play/a00y
 #EXTINF:-1,Disney Junior
 http://190.60.34.170:8000/play/a01d
+#EXTINF:-1,Galaxy Network
+https://live.autistici.org/hls/galaxynetworkarg_src.m3u8
 #EXTINF:-1,Boing
 http://45.153.96.44:8000/play/a00y
 #EXTINF:-1,Cartoon Network

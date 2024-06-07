@@ -38,7 +38,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 http://45.181.122.220:8888/play/a020
 #EXTINF:-1,Encuentro
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
-#EXTINF:-1, Music TOP
+#EXTINF:-1,Music TOP
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 #EXTINF:-1,Canal 5 México
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
@@ -56,9 +56,9 @@ http://177.93.46.163:8000/play/a00y
 #EXTINF:-1,Disney Junior
 http://190.60.34.170:8000/play/a01d
 #EXTINF:-1,Magic Club
-https://live.web.buzzster.co.uk/magicclub/index.m3u8
-#EXTINF:-1,Magic Club Opción 2
 https://stream.kirachan.tech/memfs/472049bd-1ad0-4bb9-95ea-ee8a0be0950b.m3u8
+#EXTINF:-1,Magic Club Opción 2
+https://live.web.buzzster.co.uk/magicclub/index.m3u8
 #EXTINF:-1,Boing
 http://45.153.96.44:8000/play/a00y
 #EXTINF:-1,Cartoon Network

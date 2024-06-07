@@ -3,7 +3,7 @@
 #EXTINF:-1,Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8#t=0.1
 #EXTINF:-1,C5N
-http://181.191.140.2:8000/play/a0ff/index.m3u8
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0074
 #EXTINF:-1,El Destape TV
 http://38.43.150.153:8000/play/a01u/index.m3u8
 #EXTINF:-1,America TV
@@ -30,8 +30,8 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvwFPWkJ3y65rz3hFp3lYBkLyGh
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 #EXTINF:-1,Canal 41 Bayres
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-#EXTINF:-1,GenTV
-https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
+#EXTINF:-1,Canal Gen TV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0061
 #EXTINF:-1,NeoTV Digital
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1,Canal 26
@@ -40,6 +40,27 @@ http://45.181.122.220:8888/play/a020
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 #EXTINF:-1,Music TOP
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+#EXTINF:-1,Caras TV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0062
+#EXTINF:-1,Aunar
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0066
+#EXTINF:-1,TecTV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0068
+#EXTINF:-1,DeporTV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0070
+#EXTINF:-1,El Destape
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0073
+#EXTINF:-1,LN+
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0075
+#EXTINF:-1,Telesur
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0077
+#EXTINF:-1,RT
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0078
+#EXTINF:-1,Canal-E
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0079
+
+
+
 #EXTINF:-1,Canal 5 México
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
 #EXTINF:-1,Las Estrellas

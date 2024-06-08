@@ -69,8 +69,18 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 http://181.78.27.128:8000/play/a04x/index.m3u8
 #EXTINF:-1,BabyTV
 http://181.78.8.90:16123/play/ch01
+#EXTINF:-1,Cartoon Network
+http://45.4.3.75:7700/play/a019
 #EXTINF:-1,Cartoonito
 http://190.60.36.103:8000/play/a07c
+#EXTINF:-1,Tooncast
+http://45.181.122.13:8000/play/016
+#EXTINF:-1,Boing
+http://45.153.96.44:8000/play/a00y
+#EXTINF:-1,Nickelodeon
+http://45.172.16.186:8000/play/a0of
+#EXTINF:-1,TeenNick
+http://177.126.51.9:8001/play/a00c
 #EXTINF:-1,Disney Channel
 http://177.93.46.163:8000/play/a00y
 #EXTINF:-1,Disney Junior
@@ -79,16 +89,6 @@ http://190.60.34.170:8000/play/a01d
 https://stream.kirachan.tech/memfs/472049bd-1ad0-4bb9-95ea-ee8a0be0950b.m3u8
 #EXTINF:-1,Magic Club Opción 2
 https://live.web.buzzster.co.uk/magicclub/index.m3u8
-#EXTINF:-1,Boing
-http://45.153.96.44:8000/play/a00y
-#EXTINF:-1,Cartoon Network
-http://45.172.16.186:8000/play/a0rm
-#EXTINF:-1,Nickelodeon
-http://45.172.16.186:8000/play/a0of
-#EXTINF:-1,TeenNick
-http://177.126.51.9:8001/play/a00c
-#EXTINF:-1,Tooncast
-http://45.181.122.13:8000/play/016
 #EXTINF:-1,Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1,Dreamworks

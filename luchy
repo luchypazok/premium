@@ -93,12 +93,8 @@ http://200.37.186.109:8000/play/a047/index.m3u8
 http://45.181.122.13:8000/play/017
 #EXTINF:-1,Pandamax
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
-#EXTINF:-1,BD Network
-https://stream.kirachan.tech/memfs/718951c1-4090-4aa1-b92b-b4a1a043421b.m3u8 
-#EXTINF:-1,Locomotion
-http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1,Max Anime
-https://streamyes.alsolnet.com/maxanime/live/playlist.m3u8
+https://vcp14.myplaytv.com/maxanime/maxanime/chunklist_w491557178.m3u8
 #EXTINF:-1,ETC TV
 http://38.7.223.20:8000/play/a02s
 #EXTINF:-1,BitMe
@@ -153,6 +149,10 @@ http://38.41.8.1:8000/play/a02z
 http://45.172.16.186:8000/play/a0pz
 #EXTINF:-1,El canal de la ciudad
 http://45.5.151.151:8000/play/a0lf/index.m3u8
+#EXTINF:-1,BD Network
+https://stream.kirachan.tech/memfs/718951c1-4090-4aa1-b92b-b4a1a043421b.m3u8 
+#EXTINF:-1,Locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1,AMC
 http://45.172.16.186:8000/play/a0ph
 #EXTINF:-1,El Gourmet

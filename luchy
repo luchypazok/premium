@@ -54,12 +54,8 @@ http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0075
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0077
 #EXTINF:-1,RT
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0078
-#EXTINF:-1,Canal-E
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0079
 #EXTINF:-1,Unife TV
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/f512804f6e6641e38106a47f681cfffa/chunklist_b4628000.m3u8?p=79&s=1717797446&e=1717797566&h=16654bc5d2d750c24a2c89ff7b34e50d
-
-
 #EXTINF:-1,Canal 5 México
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
 #EXTINF:-1,Las Estrellas
@@ -108,7 +104,7 @@ http://38.7.223.20:8000/play/a02s
 #EXTINF:-1,BitMe
 http://38.252.158.1:8000/play/a005
 #EXTINF:-1,Adult Swim
-http://45.172.16.186:8000/play/a0rx
+http://177.126.51.9:8001/play/a07l
 #EXTINF:-1,Telefe Internacional
 http://201.139.174.68:8001/play/a01l/index.m3u8
 #EXTINF:-1,Golden Plus

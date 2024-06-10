@@ -67,6 +67,8 @@ http://181.78.27.128:8000/play/a04x/index.m3u8
 http://181.78.8.90:16123/play/ch01
 #EXTINF:-1,Cartoon Network
 http://45.4.3.75:7700/play/a019
+#EXTINF:-1,Cartoon Network SD
+http://38.41.8.1:8000/play/a04y
 #EXTINF:-1,Cartoonito
 http://190.60.36.103:8000/play/a07c
 #EXTINF:-1,Tooncast
@@ -75,7 +77,7 @@ http://45.181.122.13:8000/play/016
 http://45.153.96.44:8000/play/a00y
 #EXTINF:-1,Nickelodeon
 http://177.126.51.9:8001/play/a023
-#EXTINF:-1,Nickelodeon (Opción 2)
+#EXTINF:-1,Nickelodeon SD
 http://192.141.99.3:8000/play/a009
 #EXTINF:-1,TeenNick
 http://177.126.51.9:8001/play/a00c

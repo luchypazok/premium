@@ -75,6 +75,8 @@ http://45.181.122.13:8000/play/016
 http://45.153.96.44:8000/play/a00y
 #EXTINF:-1,Nickelodeon
 http://177.126.51.9:8001/play/a023
+#EXTINF:-1,Nickelodeon (Opción 2)
+http://192.141.99.3:8000/play/a009
 #EXTINF:-1,TeenNick
 http://177.126.51.9:8001/play/a00c
 #EXTINF:-1,Disney Channel

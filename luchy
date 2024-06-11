@@ -65,8 +65,6 @@ http://181.78.27.128:8000/play/a04x/index.m3u8
 http://181.78.8.90:16123/play/ch01
 #EXTINF:-1,Cartoon Network
 http://45.4.3.75:7700/play/a019
-#EXTINF:-1,Cartoon Network SD
-http://38.41.8.1:8000/play/a04y
 #EXTINF:-1,Cartoonito
 http://190.60.36.103:8000/play/a07c
 #EXTINF:-1,Tooncast
@@ -75,8 +73,6 @@ http://45.181.122.13:8000/play/016
 http://45.153.96.44:8000/play/a00y
 #EXTINF:-1,Nickelodeon
 http://177.126.51.9:8001/play/a023
-#EXTINF:-1,Nickelodeon SD
-http://192.141.99.3:8000/play/a009
 #EXTINF:-1,TeenNick
 http://177.126.51.9:8001/play/a00c
 #EXTINF:-1,Disney Channel
@@ -85,8 +81,6 @@ http://177.93.46.163:8000/play/a00y
 http://190.60.34.170:8000/play/a01d
 #EXTINF:-1,Magic Club
 https://stream.kirachan.tech/memfs/472049bd-1ad0-4bb9-95ea-ee8a0be0950b.m3u8
-#EXTINF:-1,Magic Club Opción 2
-https://live.web.buzzster.co.uk/magicclub/index.m3u8
 #EXTINF:-1,Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1,Dreamworks
@@ -100,7 +94,7 @@ https://vcp14.myplaytv.com/maxanime/maxanime/chunklist_w491557178.m3u8
 #EXTINF:-1,ETC TV
 http://38.7.223.20:8000/play/a02s
 #EXTINF:-1,BitMe
-http://38.252.158.1:8000/play/a005
+http://45.68.35.218:4001/play/a04z/index.m3u8
 #EXTINF:-1,Adult Swim
 http://177.126.51.9:8001/play/a07l
 #EXTINF:-1,Telefe Internacional
@@ -231,6 +225,8 @@ http://181.78.105.146:8800/play/a047
 http://181.78.4.250:8098/play/a034/index.m3u8
 #EXTINF:-1,Telehit
 http://38.252.157.62:8000/play/62
+#EXTINF:-1,Magic Club Opción 2
+https://live.web.buzzster.co.uk/magicclub/index.m3u8
 #EXTINF:-1,Radio Disney
 https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.m3u8?dist=web-radiodisney
 

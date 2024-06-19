@@ -86,7 +86,14 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0135
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0138
 #EXTINF:-1,TV Universidad La Plata
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0139
-#EXTINF:-1,
+#EXTINF:-1,Canal 8 de Mar del Plata
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0153
+#EXTINF:-1,SPTV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0177
+#EXTINF:-1,Canal 12 Trenque Lauquen
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0181
+#EXTINF:-1,Ciudad TV Chaco
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0188
 #EXTINF:-1,Unife TV
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/f512804f6e6641e38106a47f681cfffa/chunklist_b4628000.m3u8?p=79&s=1717797446&e=1717797566&h=16654bc5d2d750c24a2c89ff7b34e50d
 #EXTINF:-1,Canal 5 México
@@ -264,6 +271,13 @@ https://live.web.buzzster.co.uk/magicclub/index.m3u8
 https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.m3u8?dist=web-radiodisney
 #EXTINF:-1,Tradicional Radio
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0107
+#EXTINF:-1,CAM Pinamar
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0164
+#EXTINF:-1,CAM Pinamar 2
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0166
+#EXTINF:-1,CAM Pinamar 3
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0167
+
 
 
 

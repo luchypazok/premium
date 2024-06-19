@@ -28,6 +28,8 @@ http://45.5.151.151:8000/play/a0dy/index.m3u8
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 #EXTINF:-1,Canal 41 Bayres
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+#EXTINF:-1,GenTV Argentina
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0063
 #EXTINF:-1,NeoTV Digital
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1,Canal 26
@@ -36,22 +38,55 @@ http://45.181.122.220:8888/play/a020
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 #EXTINF:-1,Music TOP
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+#EXTINF:-1,La 100
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0017
+#EXTINF:-1,Latina
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0018
+#EXTINF:-1,Radio Pop
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0019
+#EXTINF:-1,Radio One
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0020
+#EXTINF:-1,Extra! TV 
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0022
 #EXTINF:-1,Caras TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0062
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0064
+#EXTINF:-1,Orbe 21
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0065
 #EXTINF:-1,Aunar
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0066
-#EXTINF:-1,TecTV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0068
-#EXTINF:-1,DeporTV
+#EXTINF:-1,Tec TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0070
-#EXTINF:-1,El Destape
+#EXTINF:-1,DeporTV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0072
+#EXTINF:-1,France24 Español
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0073
-#EXTINF:-1,LN+
+#EXTINF:-1,El Destape
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0075
 #EXTINF:-1,Telesur
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0077
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0079
 #EXTINF:-1,RT
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0078
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0080
+#EXTINF:-1,Solidaria TV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0104
+#EXTINF:-1,Five TV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0108
+#EXTINF:-1,Provincial
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0119
+#EXTINF:-1,Cinco TV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0122
+#EXTINF:-1,Canal 6 Trujui
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0124
+#EXTINF:-1,99.1 TV Urbana
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0126
+#EXTINF:-1,CVN
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0130
+#EXTINF:-1,El Sello TV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0135
+#EXTINF:-1,Sicardi TV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0138
+#EXTINF:-1,TV Universidad La Plata
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0139
+#EXTINF:-1,
 #EXTINF:-1,Unife TV
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/f512804f6e6641e38106a47f681cfffa/chunklist_b4628000.m3u8?p=79&s=1717797446&e=1717797566&h=16654bc5d2d750c24a2c89ff7b34e50d
 #EXTINF:-1,Canal 5 México
@@ -74,7 +109,7 @@ http://45.153.96.44:8000/play/a00y
 #EXTINF:-1,Nickelodeon
 http://45.172.16.186:8000/play/a0of
 #EXTINF:-1,TeenNick
-http://190.216.162.159:8001/play/a09i
+http://206.84.201.100:8000/play/a01l
 #EXTINF:-1,Disney Channel
 http://177.126.51.9:8001/play/a03x
 #EXTINF:-1,Disney Junior
@@ -227,6 +262,8 @@ http://38.252.157.62:8000/play/62
 https://live.web.buzzster.co.uk/magicclub/index.m3u8
 #EXTINF:-1,Radio Disney
 https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.m3u8?dist=web-radiodisney
+#EXTINF:-1,Tradicional Radio
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0107
 
 
 

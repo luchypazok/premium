@@ -46,7 +46,7 @@ http://181.78.27.128:8000/play/a04x/index.m3u8
 #EXTINF:-1,BabyTV
 http://181.78.8.90:16123/play/ch01
 #EXTINF:-1,Cartoon Network
-http://45.4.3.75:7700/play/a019
+http://45.228.234.167:8000/play/a04n/index.m3u8
 #EXTINF:-1,Cartoonito
 http://177.126.51.9:8001/play/a024
 #EXTINF:-1,Tooncast

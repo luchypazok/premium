@@ -44,7 +44,8 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/f512804f6e6641e38106a47f681cfffa/c
 http://45.68.35.218:4001/play/a00h/index.m3u8
 #EXTINF:-1,Las Estrellas
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-
+#EXTINF:-1,Canal 12 Televisión Pública Regional - Trenque Lauquen
+https://anym3u8player.com/youtube.php/id/66818db133742.m3u8
 #EXTINF:-1,Paka Paka
 http://181.78.27.128:8000/play/a04x/index.m3u8
 #EXTINF:-1,BabyTV

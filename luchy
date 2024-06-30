@@ -30,6 +30,8 @@ http://45.5.151.151:8000/play/a0dy/index.m3u8
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 #EXTINF:-1,Canal 41 Bayres
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+#EXTINF:-1,Canal GenTV
+https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:-1,NeoTV Digital
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1,Canal 26

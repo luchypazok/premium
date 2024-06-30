@@ -20,6 +20,8 @@ http://181.78.27.128:8000/play/a04k/index.m3u8
 http://181.191.140.2:8000/play/a0he/index.m3u8
 #EXTINF:-1,Telefe
 http://181.191.140.2:8000/play/a0hu/index.m3u8
+#EXTINF:-1,Canal 8 de Mar de Plata
+https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/chunklist_w485411571_b1662976.m3u8
 #EXTINF:-1,eltrece
 https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 #EXTINF:-1,A24
